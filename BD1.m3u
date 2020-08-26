@@ -1326,15 +1326,15 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="HINDI MUSIC",Music Mastii
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XooMA08.jpg" group-title="HINDI MUSIC",B4U Music
-https://edge01.iptv.digijadoo.net/live/b4u_music/chunks.m3u8?@amarnettv.live
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CrvJkdS.png" group-title="HINDI MUSIC",Zee ETC
-https://watchindia.net:8443/live/33364/07007/824.ts?@amarnettv.live
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qj3xwcc.jpg" group-title="HINDI MUSIC",Zing
 https://edge01.iptv.digijadoo.net/live/zing/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="HINDI MUSIC",9xM
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E4NcxwB.jpg" group-title="HINDI MUSIC",9x Jalwa
-https://watchindia.net:8443/live/33364/07007/828.ts?@amarnettv.live
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/76.ts?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82CxYOo.jpg" group-title="HINDI MUSIC",9x Jhakaas
 https://watchindia.net:8443/live/33364/07007/926.ts?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qw5saV7.jpg" group-title="HINDI MUSIC",9x Tashan
@@ -1351,10 +1351,6 @@ https://watchindia.net:8443/live/33364/07007/798.ts
 https://watchindia.net:8443/live/33364/07007/797.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/alJj9sb.jpg" group-title="HINDI MUSIC",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GYDctq.jpg" group-title="HINDI MUSIC",Sangeet Marathi
-http://103.141.66.36/bpk-tv/10334/default/manifest.mpd?=.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kuyqwRZ.png" group-title="HINDI MUSIC",MK Tunes
-http://103.141.66.36/bpk-tv/10165/default/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D4Zv1MY.jpg" group-title="HINDI MUSIC",PUBLIC MUSIC
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IsBRonG.jpg" group-title="HINDI MUSIC",Cine Voice
@@ -1370,7 +1366,7 @@ http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="WORLD MUSIC",VH1 Italia
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="WORLD MUSIC",Ary Musik
-http://103.141.66.36/bpk-tv/10089/default/manifest.mpd
+https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrDafTA.jpg" group-title="WORLD MUSIC",8XM HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/72.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" group-title="WORLD MUSIC",CHANNEL [V]
@@ -1595,6 +1591,8 @@ https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
 https://edge01.iptv.digijadoo.net/live/cnbc/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="JADOO LIVE",JD_MTV Beats
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="JADOO LIVE",JD_Ary Musik
+https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="JADOO LIVE",JD_Zoom
 https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="JADOO LIVE",JD_PTV Global
