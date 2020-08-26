@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BANGLA ENT.",AMARNETTV:NOW IT'S FREE
-https://dl.dropbox.com/s/6ddnue2m9orlovd/ANT.mp4
+https://gitlab.com/amarnettv/free/-/raw/66fa238b6ffe15ec22da75009e42df7b9a21f60d/amarnettvFree.mp4
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-title="BANGLA ENT.",BTV [BD]
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8?@amarnettv.live
@@ -364,9 +364,7 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/vsfavkpqyvi3x8m/mtvbangla.jpg" group-title="BANGLA ENT.",MTv Bangla [BD]
 https://mtvbangla-hls.telelivebd.com/mtvbangla/fa96cb6eb78910932cc0b6aee1771fbd.sdp/chunks.m3u8
-
-############## INDIAN ##################
-
+######## INDIAN ###########
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="IND. ENT.",COLORS SD
 https://edge01.iptv.digijadoo.net/live/colors_asia/chunks.m3u8
 
@@ -444,9 +442,7 @@ http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="IND. ENT.",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
-
-################# WORLD ENT. ##################
-
+########## WORLD ENT. ############
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_World.png" group-title="WORLD ENT.",STAR WORLD
 https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
 
@@ -686,9 +682,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slp
 
 #EXTINF:-1 tvg-id="RPC.PY" tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="WORLD ENT.",Trece
 http://174.138.118.252/live/trece.m3u8
-
-########### IND. MOVIES  #############
-
+######## IND. MOVIES  ##########
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="IND. MOVIES",Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 
@@ -829,12 +823,7 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarpre.stream_all/playlis
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/844490762091945984/fpXPJphw_400x400.jpg" group-title="IND. MOVIES",Classic Marathi Movies
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlist.m3u8?@amarnettv.live
-
-
-
-########## ENG. MOVIES ###########
-
-
+####### ENG. MOVIES #########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="WORLD MOVIES",MBC MAX HD
 https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8?@amarnettv.live
 
@@ -893,7 +882,7 @@ https://watchindia.net:8443/live/33364/07007/2080.ts
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="WORLD MOVIES",Star Movies Select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+http://103.214.202.218:8081/live/starsports1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="WORLD MOVIES",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
@@ -1032,9 +1021,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3aDsYK.jpg" group-title="WORLD MOVIES",CELESTIAL MOVIES					
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8?@amarnettv.live
-
-########## INFOTAINMENT ##############
-
+######## INFOTAINMENT ##########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="INFOTAINMENT & LIFESTYLE",BBC EARTH FHD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts?@amarnettv.live
 
@@ -1163,7 +1150,6 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Living-foodz-logo.jpg/200px-Living-foodz-logo.jpg" group-title="INFOTAINMENT & LIFESTYLE",Living Foodz
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="INFOTAINMENT & LIFESTYLE",Hum Masala
 http://103.141.66.36/bpk-tv/10240/default/manifest.mpd
 
@@ -1184,9 +1170,7 @@ https://sc.id-tv.kz/IDFashion_38_39.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="INFOTAINMENT & LIFESTYLE",HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-
-############# RELIGIUOS  #############
-
+######### RELIGIUOS  ###########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U1XFyOx.png" group-title="RELIGIOUS",Saudi Quran 
 https://edge01.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
 
@@ -1246,9 +1230,7 @@ http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YLd5f9j.jpg" group-title="RELIGIOUS",Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
-
-############## KIDS ##################
-
+######### KIDS ###########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KIDS ENT.",DURONTO TV HD
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 
@@ -1344,9 +1326,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/Famil
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="KIDS ENT.",SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
-
 ######### SPORTS  ##########
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",TITAS SPORTS [BD]
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
@@ -1665,7 +1645,6 @@ http://212.47.252.54/hls/stream.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W23GnxY.png" group-title="SPORTS",RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8?@amarnettv.live
-
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="BEINSPORTS/SUPERSPORTS",beIN Sports 1
 https://vodcache.worldwidetv.club/root-c2/liveorigin/hd-bein1_480/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/qa/beINSports2.qa.png" group-title="BEINSPORTS/SUPERSPORTS",beIN Sports 2
@@ -1712,9 +1691,7 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport10/liveori
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport11/liveorigin/af-supersport11_480/chunks.m3u8
 #EXTINF: -1 group-title = "BEINSPORTS/SUPERSPORTS" tvg-logo = "https://api.blackboxsys.net/images/png/af-supersport12.png", SUPER SPORT 12
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport12/liveorigin/af-supersport12_480/chunks.m3u8
-
-########## LIVE SPORTS ##############
-
+######### LIVE SPORTS ##############
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [1]
 https://fancodealive1-a.akamaihd.net/400dcc20bd6b4de1bcfe8b93d0bf3e09/ap-south-1/6008340455001/profile_0/chunklist_dvr.m3u8?hdnea=st=1598102949~exp=9007200852843940~acl=/400dcc20bd6b4de1bcfe8b93d0bf3e09/*/profile_1/chunklist_dvr.m3u8*~hmac=4e5fd16cac9281026c648180d8f98049092a9cc17d6eb2abdab7be7f9584235e
 
@@ -1738,9 +1715,7 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin/uk-skysports-mainevent_720/
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 6
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
-
-###########  WORLD NEWS  ##################
-
+##########  WORLD NEWS  ##########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="WORLD NEWS",Al Jazeera FHD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8?@amarnettv.live
 
@@ -1925,9 +1900,7 @@ https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8?@amarnettv.live
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QOadxzR.png" group-title="BANGLA MUSIC",Bangla Talkies [IN]
 http://103.141.66.36/bpk-tv/10081/default/index.m3u8
-
-###########  HINDI MUSIC  ###################
-
+#########  HINDI MUSIC  ###########
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="HINDI MUSIC",Zoom
 https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8?@amarnettv.live
 
@@ -2005,11 +1978,9 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8?@amarnett
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BnCF4JT.png" group-title="HINDI MUSIC",GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8?@amarnettv.live
-
-##############  WORLD MUSIC #########
-
+#######  WORLD MUSIC ########
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="WORLD MUSIC",VH1
-http://103.141.66.36/bpk-tv/10151/default/manifest.mpd
+http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="WORLD MUSIC",VH1 Italia
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
@@ -2133,531 +2104,528 @@ http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zsoueaz2vydig4u/WMUSIC.png" group-title="WORLD MUSIC",Sky Folk
 http://skyfolk.mk/live.m3u8
-
-
-##### BD TV SERVERS ##########
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="BDIX TV SERVERS",1_Sangsad TV [BD]
+##### BD TV SERVERS ########
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="JADOO LIVE",JD_Sangsad TV [BD]
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="BDIX TV SERVERS",1_BTV WORLD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="JADOO LIVE",JD_BTV WORLD [BD]
 https://edge01.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BDIX TV SERVERS",1_ATN BANGLA [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="JADOO LIVE",JD_ATN BANGLA [BD]
 https://edge01.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BDIX TV SERVERS",1_CHANNEL I [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="JADOO LIVE",JD_CHANNEL I [BD]
 https://edge01.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BDIX TV SERVERS",1_NTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="JADOO LIVE",JD_NTV [BD]
 https://edge01.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BDIX TV SERVERS",1_DEEPTO TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="JADOO LIVE",JD_DEEPTO TV [BD]
 https://edge01.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BDIX TV SERVERS",1_DBC NEWS [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="JADOO LIVE",JD_DBC NEWS [BD]
 https://edge01.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BDIX TV SERVERS",1_RTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="JADOO LIVE",JD_RTV [BD]
 https://edge01.iptv.digijadoo.net/live/rtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BDIX TV SERVERS",1_BOISHAKHI TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="JADOO LIVE",JD_BOISHAKHI TV
 https://edge01.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BDIX TV SERVERS",1_BANGLA VISION [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="JADOO LIVE",JD_BANGLA VISION [BD]
 https://edge01.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BDIX TV SERVERS",1_MY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="JADOO LIVE",JD_MY TV [BD]
 https://edge01.iptv.digijadoo.net/live/my_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BDIX TV SERVERS",1_MOHONA TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="JADOO LIVE",JD_MOHONA TV [BD]
 https://edge01.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BDIX TV SERVERS",1_MAASRANGA TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="JADOO LIVE",JD_MAASRANGA TV [BD]
 https://edge01.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BDIX TV SERVERS",1_GAZI TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="JADOO LIVE",JD_GAZI TV [BD]
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BDIX TV SERVERS",1_ASIAN TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="JADOO LIVE",JD_ASIAN TV [BD]
 https://edge01.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BDIX TV SERVERS",1_SA TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="JADOO LIVE",JD_SA TV [BD]
 https://edge01.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="BDIX TV SERVERS",1_NAGORIK TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="JADOO LIVE",JD_NAGORIK TV [BD]
 https://edge01.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BDIX TV SERVERS",1_ATN NEWS [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="JADOO LIVE",JD_ATN NEWS [BD]
 https://edge01.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BDIX TV SERVERS",1_INDEPENDENT TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="JADOO LIVE",JD_INDEPENDENT TV [BD]
 https://edge01.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BDIX TV SERVERS",1_SOMOY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="JADOO LIVE",JD_SOMOY TV [BD]
 https://edge01.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BDIX TV SERVERS",1_CHANNEL 24 [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="JADOO LIVE",JD_CHANNEL 24 [BD]
 https://edge01.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BDIX TV SERVERS",1_NEWS 24 [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="JADOO LIVE",JD_NEWS 24 [BD]
 https://edge01.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="BDIX TV SERVERS",1_GAAN BANGLA [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="JADOO LIVE",JD_GAAN BANGLA [BD]
 https://edge01.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BDIX TV SERVERS",1_DURONTO TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="JADOO LIVE",JD_DURONTO TV [BD]
 https://edge01.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BDIX TV SERVERS",1_Star Jalsha HD [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="JADOO LIVE",JD_Star Jalsha HD [IN]
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="BDIX TV SERVERS",1_Zee Bangla SD [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="JADOO LIVE",JD_Zee Bangla SD [IN]
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BDIX TV SERVERS",1_Colors Bangla HD [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="JADOO LIVE",JD_Colors Bangla HD [IN]
 https://edge01.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="BDIX TV SERVERS",1_Colors Bangla SD [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="JADOO LIVE",JD_Colors Bangla SD [IN]
 https://edge01.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="BDIX TV SERVERS",1_DD Bangla [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="JADOO LIVE",JD_DD Bangla [IN]
 https://edge01.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BDIX TV SERVERS",1_Ruposhi Bangla [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="JADOO LIVE",JD_Ruposhi Bangla [IN]
 https://edge01.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="BDIX TV SERVERS",1_R Plus Gold [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="JADOO LIVE",JD_R Plus Gold [IN]
 https://edge01.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BDIX TV SERVERS",1_Sangeet Bangla [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="JADOO LIVE",JD_Sangeet Bangla [IN]
 https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="BDIX TV SERVERS",1_Dhoom Music [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="JADOO LIVE",JD_Dhoom Music [IN]
 https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BDIX TV SERVERS",1_Jalsha Movies [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="JADOO LIVE",JD_Jalsha Movies [IN]
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="BDIX TV SERVERS",1_COLORS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="JADOO LIVE",JD_COLORS HD
 https://edge01.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="BDIX TV SERVERS",1_STAR PLUS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="JADOO LIVE",JD_STAR PLUS
 https://edge01.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="BDIX TV SERVERS",1_STAR PLUS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="JADOO LIVE",JD_STAR PLUS HD
 https://edge01.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="BDIX TV SERVERS",1_STAR BHARAT
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="JADOO LIVE",JD_STAR BHARAT
 https://edge01.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="BDIX TV SERVERS",1_Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="JADOO LIVE",JD_Zee TV HD
 https://edge01.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="BDIX TV SERVERS",1_STAR WORLD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="JADOO LIVE",JD_STAR WORLD
 https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="BDIX TV SERVERS",1_Comedy Central
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="JADOO LIVE",JD_Comedy Central
 https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="BDIX TV SERVERS",1_Comedy Central HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="JADOO LIVE",JD_Comedy Central HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="BDIX TV SERVERS",1_Star Gold
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="JADOO LIVE",JD_Star Gold
 https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="BDIX TV SERVERS",1_Star Gold HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="JADOO LIVE",JD_Star Gold HD
 https://edge01.iptv.digijadoo.net/live/star_gold/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="BDIX TV SERVERS",1_Star Gold 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="JADOO LIVE",JD_Star Gold 2
 https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="BDIX TV SERVERS",1_Zee Cinema
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="JADOO LIVE",JD_Zee Cinema
 https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="BDIX TV SERVERS",1_Zee Bollywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="JADOO LIVE",JD_Zee Bollywood
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izPPP72.jpg" group-title="BDIX TV SERVERS",1_MANORANJAN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izPPP72.jpg" group-title="JADOO LIVE",JD_MANORANJAN
 https://edge01.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="BDIX TV SERVERS",1_Movies Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="JADOO LIVE",JD_Movies Now
 https://edge01.iptv.digijadoo.net/live/movies_now/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="BDIX TV SERVERS",1_LOTUS MACAU
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="JADOO LIVE",JD_LOTUS MACAU
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="BDIX TV SERVERS",1_FYI TV 18
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="JADOO LIVE",JD_FYI TV 18
 https://edge01.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="BDIX TV SERVERS",1_TLC HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="JADOO LIVE",JD_TLC HD
 https://edge01.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="BDIX TV SERVERS",1_History TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="JADOO LIVE",JD_History TV HD
 https://edge01.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="BDIX TV SERVERS",1_BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="JADOO LIVE",JD_BBC Lifestyle
 https://edge01.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="BDIX TV SERVERS",1_NAT GEO SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="JADOO LIVE",JD_NAT GEO SD
 https://edge01.iptv.digijadoo.net/live/nat_geo_in/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="BDIX TV SERVERS",1_NAT GEO WILD SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="JADOO LIVE",JD_NAT GEO WILD SD
 https://edge01.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/13/c1/5a/13c15a09a8192295d76b797bd46f3cb0.png" group-title="BDIX TV SERVERS",1_NAT GEO PEOPLE
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/13/c1/5a/13c15a09a8192295d76b797bd46f3cb0.png" group-title="JADOO LIVE",JD_NAT GEO PEOPLE
 https://edge01.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="BDIX TV SERVERS",1_FOX Life
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="JADOO LIVE",JD_FOX Life
 https://edge01.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="BDIX TV SERVERS",1_Hum Masala
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="JADOO LIVE",JD_Hum Masala
 https://edge01.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="BDIX TV SERVERS",1_NICK
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="JADOO LIVE",JD_NICK
 https://edge01.iptv.digijadoo.net/live/nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rAjHYu3.png" group-title="BDIX TV SERVERS",1_Nick HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rAjHYu3.png" group-title="JADOO LIVE",JD_Nick HD
 https://edge01.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="BDIX TV SERVERS",1_Sonic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="JADOO LIVE",JD_Sonic
 https://edge01.iptv.digijadoo.net/live/sonic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" group-title="BDIX TV SERVERS",1_NICK Jr.
+#EXTINF:-1 tvg-logo="https://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" group-title="JADOO LIVE",JD_NICK Jr.
 https://edge01.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="BDIX TV SERVERS",1_BBC Cbeebies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",JD_BBC Cbeebies
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png" group-title="BDIX TV SERVERS",1_DD Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png" group-title="JADOO LIVE",JD_DD Sports
 https://edge01.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="BDIX TV SERVERS",1_Al Jazeera
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="JADOO LIVE",JD_Al Jazeera
 https://edge01.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="BDIX TV SERVERS",1_DW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="JADOO LIVE",JD_DW
 https://edge01.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HuQij93.png" group-title="BDIX TV SERVERS",1_NHK WORLD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HuQij93.png" group-title="JADOO LIVE",JD_NHK WORLD
 https://edge01.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="BDIX TV SERVERS",1_BBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="JADOO LIVE",JD_BBC News
 https://edge01.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="BDIX TV SERVERS",1_CNN USA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="JADOO LIVE",JD_CNN USA
 https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="BDIX TV SERVERS",1_CNA
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="JADOO LIVE",JD_CNA
 https://edge01.iptv.digijadoo.net/live/channel_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="BDIX TV SERVERS",1_CNBC TV
+#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="JADOO LIVE",JD_CNBC TV
 https://edge01.iptv.digijadoo.net/live/cnbc/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="BDIX TV SERVERS",1_MTV Beats
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="JADOO LIVE",JD_MTV Beats
 https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="BDIX TV SERVERS",1_Zoom
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="JADOO LIVE",JD_Zoom
 https://edge01.iptv.digijadoo.net/live/zoom/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="BDIX TV SERVERS",1_PTV Global
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="JADOO LIVE",JD_PTV Global
 https://edge01.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_BTV National
-http://45.249.187.238:8081/hls/new24.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Channel 9
-http://45.249.187.238:8081/hls/live3.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Gazi TV
-http://45.249.187.238:8081/hls/live5.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Massraga TV
-http://45.249.187.238:8081/hls/live6.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Channel I
-http://45.249.187.238:8081/hls/live7.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_RTV
-http://45.249.187.238:8081/hls/live1.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Jamuna TV
-http://45.249.187.238:8081/hls/live2.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Nagorik TV
-http://45.249.187.238:8081/hls/new16.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Asian TV
-http://45.249.187.238:8081/hls/new4.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_ATN Bangla
-http://45.249.187.238:8081/hls/new20.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_MY TV
-http://45.249.187.238:8081/hls/new5.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Bangla Vision
-http://45.249.187.238:8081/hls/new6.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_News 24
-http://45.249.187.238:8081/hls/live4.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Independent TV
-http://45.249.187.238:8081/hls/hdmi4.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Somoy News
-http://45.249.187.238:8081/hls/hdmi2.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_DBC News
-http://45.249.187.238:8081/hls/new23.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Duranto TV
-http://45.249.187.238:8081/hls/new3.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Zee Bangla
-http://45.249.187.238:8081/hls/new8.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Songit Bangla
-http://45.249.187.238:8081/hls/new7.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Zee TV
-http://45.249.187.238:8081/hls/tsl-5.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_And TV
-http://45.249.187.238:8081/hls/tsl-6.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Sony Sab
-http://45.249.187.238:8081/hls/tsl-4.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Star Gold 2
-http://45.249.187.238:8081/hls/tsl-3.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_And Pictures
-http://45.249.187.238:8081/hls/tsl-2.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_UTV Action
-http://45.249.187.238:8081/hls/tsl-7.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Star Sports 1 HD
-http://45.249.187.238:8081/hls/new2.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Sky Net Sports 1
-http://45.249.187.238:8081/hls/new1.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_PTV Sports
-http://45.249.187.238:8081/hls/hdmi3.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_CNN News
-http://45.249.187.238:8081/hls/new19.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_BBC World News
-http://45.249.187.238:8081/hls/new19.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_All Jazeera
-http://45.249.187.238:8081/hls/new17.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_HBO
-http://45.249.187.238:8081/hls/new13.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Star Movies
-http://45.249.187.238:8081/hls/tsl-8.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_And Flix
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_BTV National
 http://45.249.187.238:8081/hls/new21.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Lotus Maucu
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Channel 9
+http://45.249.187.238:8081/hls/live3.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Gazi TV
+http://45.249.187.238:8081/hls/live5.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Ekattor TV
+http://45.249.187.238:8081/hls/live6.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Channel I
+http://45.249.187.238:8081/hls/live7.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_RTV
+http://45.249.187.238:8081/hls/live1.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Jamuna TV
+http://45.249.187.238:8081/hls/live2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="MOVIE BAZAR TV",MB_Deepto TV
 http://45.249.187.238:8081/hls/new22.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Cartoon Network
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Nagorik TV
+http://45.249.187.238:8081/hls/new16.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Asian TV
+http://45.249.187.238:8081/hls/new4.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_ATN Bangla
+http://45.249.187.238:8081/hls/new20.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_MY TV
+http://45.249.187.238:8081/hls/new5.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Bangla Vision
+http://45.249.187.238:8081/hls/new6.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_News 24
+http://45.249.187.238:8081/hls/live4.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Independent TV
+http://45.249.187.238:8081/hls/hdmi4.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Somoy News
+http://45.249.187.238:8081/hls/hdmi2.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_DBC News
+http://45.249.187.238:8081/hls/new23.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Duranto TV
+http://45.249.187.238:8081/hls/new3.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Zee Bangla
+http://45.249.187.238:8081/hls/new8.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Songit Bangla
+http://45.249.187.238:8081/hls/new7.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Zee TV
+http://45.249.187.238:8081/hls/tsl-5.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_And TV
+http://45.249.187.238:8081/hls/tsl-6.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Sony Sab
+http://45.249.187.238:8081/hls/tsl-4.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Star Gold 2
+http://45.249.187.238:8081/hls/tsl-3.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_And Pictures
+http://45.249.187.238:8081/hls/tsl-2.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_UTV Action
+http://45.249.187.238:8081/hls/tsl-7.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Star Sports 1 HD
+http://45.249.187.238:8081/hls/new2.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Sky Net Sports 1
+http://45.249.187.238:8081/hls/new1.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_PTV Sports
+http://45.249.187.238:8081/hls/hdmi3.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_CNN News
+http://45.249.187.238:8081/hls/new19.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_BBC World News
+http://45.249.187.238:8081/hls/new19.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_All Jazeera
+http://45.249.187.238:8081/hls/new17.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Movies Now
+http://45.249.187.238:8081/hls/new13.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Star Movies
+http://45.249.187.238:8081/hls/tsl-8.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Lotus Maucu
+http://45.249.187.238:8081/hls/new24.m3u8
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Cartoon Network
 http://45.249.187.238:8081/hls/new14.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Animal Planet
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_POGO
 http://45.249.187.238:8081/hls/live0.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_POGO
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_NO SIGNAL
 http://45.249.187.238:8081/hls/hdmi1.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Discovery Channel
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Animal Planet
 http://45.249.187.238:8081/hls/tsl-1.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Mastii Music
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Mastii Music
 http://45.249.187.238:8081/hls/new12.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Medina TV Bangla
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Medina TV Bangla
 http://45.249.187.238:8081/hls/new9.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Macca TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Macca TV
 http://45.249.187.238:8081/hls/new15.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Madina TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Madina TV
 http://45.249.187.238:8081/hls/new11.m3u8
-#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TV SERVERS",2_Ary Q TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Ary Q TV
 http://45.249.187.238:8081/hls/new10.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BDIX TV SERVERS",3_GAZI TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="AMR BD LIVE",AMR_GAZI TV HD [BD]
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BDIX TV SERVERS",3_MAASRANGA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="AMR BD LIVE",AMR_MAASRANGA TV HD [BD]
 http://103.214.202.218:8081/live/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BDIX TV SERVERS",3_CHANNEL 9 HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="AMR BD LIVE",AMR_CHANNEL 9 HD [BD]
 http://103.214.202.218:8081/live/channel9-15/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BDIX TV SERVERS",3_DEEPTO TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="AMR BD LIVE",AMR_DEEPTO TV HD [BD]
 http://103.214.202.218:8081/live/deepto/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BDIX TV SERVERS",3_ASIAN TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="AMR BD LIVE",AMR_ASIAN TV HD [BD]
 http://103.214.202.218:8081/live/asiantv-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BDIX TV SERVERS",3_NTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="AMR BD LIVE",AMR_NTV [BD]
 http://103.214.202.218:8081/live/ntv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BDIX TV SERVERS",3_RTV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="AMR BD LIVE",AMR_RTV HD [BD]
 http://103.214.202.218:8081/live/rtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BDIX TV SERVERS",3_ATN NEWS TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="AMR BD LIVE",AMR_ATN NEWS TV [BD]
 http://103.214.202.218:8081/live/atnnews-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="BDIX TV SERVERS",3_BOISHAKHI TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="AMR BD LIVE",AMR_BOISHAKHI TV [BD]
 http://103.214.202.218:8081/live/boishakhi-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="BDIX TV SERVERS",3_BANGLA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YWVt5Yw.jpg" group-title="AMR BD LIVE",AMR_BANGLA TV HD [BD]
 http://103.214.202.218:8081/live/banglatv-19/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BDIX TV SERVERS",3_EKATTOR TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="AMR BD LIVE",AMR_EKATTOR TV HD [BD]
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BDIX TV SERVERS",3_SA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="AMR BD LIVE",AMR_SA TV HD [BD]
 http://103.214.202.218:8081/live/satv-22/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="BDIX TV SERVERS",3_NAGORIK TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="AMR BD LIVE",AMR_NAGORIK TV HD [BD]
 http://103.214.202.218:8081/live/nagorik/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="BDIX TV SERVERS",3_MOHONA TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="AMR BD LIVE",AMR_MOHONA TV [BD]
 http://103.214.202.218:8081/live/mohona/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BDIX TV SERVERS",3_NEWS 24 HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="AMR BD LIVE",AMR_NEWS 24 HD [BD]
 http://103.214.202.218:8081/live/news24-24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BDIX TV SERVERS",3_DBC NEWS HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="AMR BD LIVE",AMR_DBC NEWS HD [BD]
 http://103.214.202.218:8081/live/dbc/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BDIX TV SERVERS",3_INDEPENDENT TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="AMR BD LIVE",AMR_INDEPENDENT TV [BD]
 http://103.214.202.218:8081/live/independent/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BDIX TV SERVERS",3_SOMOY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="AMR BD LIVE",AMR_SOMOY TV [BD]
 http://103.214.202.218:8081/live/somoy/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="BDIX TV SERVERS",3_JAMUNA TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="AMR BD LIVE",AMR_JAMUNA TV [BD]
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BDIX TV SERVERS",3_ATN BANGLA [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="AMR BD LIVE",AMR_ATN BANGLA [BD]
 http://103.214.202.218:8081/live/atnbangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BDIX TV SERVERS",3_CHANNEL I HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="AMR BD LIVE",AMR_CHANNEL I HD [BD]
 http://103.214.202.218:8081/live/channeli/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BDIX TV SERVERS",3_MY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="AMR BD LIVE",AMR_MY TV [BD]
 http://103.214.202.218:8081/live/mytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BDIX TV SERVERS",3_EKUSHEY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="AMR BD LIVE",AMR_EKUSHEY TV [BD]
 http://103.214.202.218:8081/live/ekushey/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BDIX TV SERVERS",3_BIJOY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="AMR BD LIVE",AMR_BIJOY TV [BD]
 http://103.214.202.218:8081/live/bijoytv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="BDIX TV SERVERS",3_ATN Islam
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Q3VtlF.png" group-title="AMR BD LIVE",AMR_ATN Islam
 http://103.214.202.218:8081/live/atnislamictv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-music.jpg" group-title="BDIX TV SERVERS",3_ATN MUSIC TV [BD]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-music.jpg" group-title="AMR BD LIVE",AMR_ATN MUSIC TV [BD]
 http://103.214.202.218:8081/live/atnmusic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="BDIX TV SERVERS",3_GAAN BANGLA HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="AMR BD LIVE",AMR_GAAN BANGLA HD [BD]
 http://103.214.202.218:8081/live/gaanbangla-21/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="BDIX TV SERVERS",3_Star Jalsha HD [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="AMR BD LIVE",AMR_Star Jalsha HD [IN]
 http://103.214.202.218:8081/live/starjalsha/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="BDIX TV SERVERS",3_Zee Bangla HD [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fLLse5Q.jpg" group-title="AMR BD LIVE",AMR_Zee Bangla HD [IN]
 http://103.214.202.218:8081/live/zeebanglahd-25/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="BDIX TV SERVERS",3_Colors Bangla HD [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="AMR BD LIVE",AMR_Colors Bangla HD [IN]
 http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BDIX TV SERVERS",3_Jalsha Movies [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="AMR BD LIVE",AMR_Jalsha Movies [IN]
 http://103.214.202.218:8081/live/jalshamovies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BDIX TV SERVERS",3_Zee Bangla Cinema [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="AMR BD LIVE",AMR_Zee Bangla Cinema [IN]
 http://103.214.202.218:8081/live/zeebanglacinema-33/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="BDIX TV SERVERS",3_Sangeet Bangla [IN]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="AMR BD LIVE",AMR_Sangeet Bangla [IN]
 http://ddn.amrbd.com:8081/live/sangeetbangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="BDIX TV SERVERS",3_STAR PLUS HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="AMR BD LIVE",AMR_STAR PLUS HD
 http://ddn.amrbd.com:8081/live/starplus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="BDIX TV SERVERS",3_SONY HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HcUrbQp.jpg" group-title="AMR BD LIVE",AMR_SONY HD
 http://103.214.202.218:8081/live/sony-40/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="BDIX TV SERVERS",3_Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="AMR BD LIVE",AMR_Zee TV HD
 http://103.214.202.218:8081/live/zeetv-31/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="BDIX TV SERVERS",3_And TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/F1Wtani.jpg" group-title="AMR BD LIVE",AMR_And TV HD
 http://103.214.202.218:8081/live/andtv-27/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="BDIX TV SERVERS",3_Star Gold HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="AMR BD LIVE",AMR_Star Gold HD
 http://ddn.amrbd.com:8081/live/stargold/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="BDIX TV SERVERS",3_SONY SET MAX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="AMR BD LIVE",AMR_SONY SET MAX HD
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="BDIX TV SERVERS",3_Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TcGPubh.jpg" group-title="AMR BD LIVE",AMR_Zee Cinema HD
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="BDIX TV SERVERS",3_And Picture HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RcuFK1k.jpg" group-title="AMR BD LIVE",AMR_And Picture HD
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="BDIX TV SERVERS",3_Zee Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvHpAvR.png" group-title="AMR BD LIVE",AMR_Zee Action
 http://103.214.202.218:8081/live/zeeaction-35/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="BDIX TV SERVERS",3_B4U Kadak
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcVtzDM.png" group-title="AMR BD LIVE",AMR_B4U Kadak
 http://103.144.200.7:8080/hls/b4uka/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX TV SERVERS",3_Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="AMR BD LIVE",AMR_Star Sports 1 HD
 http://103.214.202.218:8081/live/starsports1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="BDIX TV SERVERS",3_Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="AMR BD LIVE",AMR_Star Sports 2 HD
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="BDIX TV SERVERS",3_Star Sports Select 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="AMR BD LIVE",AMR_Star Sports Select 1 HD
 http://103.214.202.218:8081/live/select1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="BDIX TV SERVERS",3_Star Sports Select 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="AMR BD LIVE",AMR_Star Sports Select 2 HD
 http://103.214.202.218:8081/live/select2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="BDIX TV SERVERS",3_Sony Ten 1 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="AMR BD LIVE",AMR_Sony Ten 1 HD
 http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="BDIX TV SERVERS",3_Sony Ten 2 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="AMR BD LIVE",AMR_Sony Ten 2 HD
 http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="BDIX TV SERVERS",3_Sony Ten 3 HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="AMR BD LIVE",AMR_Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="BDIX TV SERVERS",3_ESPN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="AMR BD LIVE",AMR_ESPN HD
 http://103.214.202.218:8081/live/espnhd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nOrLoWi.jpg" group-title="BDIX TV SERVERS",3_Willow Cricket HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nOrLoWi.jpg" group-title="AMR BD LIVE",AMR_Willow Cricket HD
 http://ddn.amrbd.com:8081/live/willo-hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="BDIX TV SERVERS",3_Discovery HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="AMR BD LIVE",AMR_Discovery HD
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="BDIX TV SERVERS",3_ANIMAL PLANET HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="AMR BD LIVE",AMR_ANIMAL PLANET HD
 http://103.214.202.218:8081/live/animalplanet-13/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="BDIX TV SERVERS",3_NGC
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gQuUBTU.png" group-title="AMR BD LIVE",AMR_NGC
 http://103.214.202.218:8081/live/natgeohd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="BDIX TV SERVERS",3_NAT GEO WILD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="AMR BD LIVE",AMR_NAT GEO WILD
 http://103.214.202.218:8081/live/natgeowild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5adlvsI.png" group-title="BDIX TV SERVERS",3_NAT GEO PEOPLE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5adlvsI.png" group-title="AMR BD LIVE",AMR_NAT GEO PEOPLE
 http://103.214.202.218:8081/live/natgeop/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="BDIX TV SERVERS",3_History TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="AMR BD LIVE",AMR_History TV HD
 http://103.214.202.218:8081/live/history/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="BDIX TV SERVERS",3_BBC News
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="AMR BD LIVE",AMR_BBC News
 http://103.214.202.218:8081/live/bbcearth-47/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="BDIX TV SERVERS",3_& Prive HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="AMR BD LIVE",AMR_& Prive HD
 http://103.214.202.218:8081/live/andprive-28/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="BDIX TV SERVERS",3_& Flix HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="AMR BD LIVE",AMR_& Flix HD 
 http://103.214.202.218:8081/live/andflix-29/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="BDIX TV SERVERS",3_HBO HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="AMR BD LIVE",AMR_HBO HD
 http://103.214.202.218:8081/live/hbohd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="BDIX TV SERVERS",3_MNX
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7mxlvs6.png" group-title="AMR BD LIVE",AMR_MNX
 http://103.214.202.218:8081/live/mnx/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="BDIX TV SERVERS",3_Movies Now
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="AMR BD LIVE",AMR_Movies Now
 http://103.214.202.218:8081/live/moviesnow/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="BDIX TV SERVERS",3_ROMEDY NOW
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="AMR BD LIVE",AMR_ROMEDY NOW
 http://103.214.202.218:8081/live/romedynow/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="BDIX TV SERVERS",3_Star Movies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="AMR BD LIVE",AMR_Star Movies
 http://103.214.202.218:8081/live/starmovies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="BDIX TV SERVERS",3_Zee Cafe HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gkp0htr.jpg" group-title="AMR BD LIVE",AMR_Zee Cafe HD
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="BDIX TV SERVERS",3_STAR WORLD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="AMR BD LIVE",AMR_STAR WORLD
 http://103.214.202.218:8081/live/startworld/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="BDIX TV SERVERS",3_Zoom
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="AMR BD LIVE",AMR_Zoom
 http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="BDIX TV SERVERS",3_Music Mastii
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="AMR BD LIVE",AMR_Music Mastii
 http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="BDIX TV SERVERS",4_BTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bWGqJhm.png" group-title="KITV LIVE",KI_BTV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/19.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BDIX TV SERVERS",4_ATN BANGLA [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="KITV LIVE",KI_ATN BANGLA [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/10.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BDIX TV SERVERS",4_CHANNEL I HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="KITV LIVE",KI_CHANNEL I HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="BDIX TV SERVERS",4_EKUSHEY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T38Oiwl.jpg" group-title="KITV LIVE",KI_EKUSHEY TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/15.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BDIX TV SERVERS",4_NTV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="KITV LIVE",KI_NTV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/9.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="BDIX TV SERVERS",4_RTV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="KITV LIVE",KI_RTV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/11.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="BDIX TV SERVERS",4_BANGLA VISION [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="KITV LIVE",KI_BANGLA VISION [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/17.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="BDIX TV SERVERS",4_MY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="KITV LIVE",KI_MY TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/18.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BDIX TV SERVERS",4_MAASRANGA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="KITV LIVE",KI_MAASRANGA TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BDIX TV SERVERS",4_CHANNEL 9 HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="KITV LIVE",KI_CHANNEL 9 HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/7.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BDIX TV SERVERS",4_GAZI TV HD [BD] 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="KITV LIVE",KI_GAZI TV HD [BD] 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BDIX TV SERVERS",4_SA TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="KITV LIVE",KI_SA TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/8.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BDIX TV SERVERS",4_DEEPTO TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="KITV LIVE",KI_DEEPTO TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="BDIX TV SERVERS",4_NAGORIK TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="KITV LIVE",KI_NAGORIK TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BDIX TV SERVERS",4_INDEPENDENT TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="KITV LIVE",KI_INDEPENDENT TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/12.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="BDIX TV SERVERS",4_SOMOY TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="KITV LIVE",KI_SOMOY TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/14.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BDIX TV SERVERS",4_CHANNEL 24 [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="KITV LIVE",KI_CHANNEL 24 [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="BDIX TV SERVERS",4_EKATTOR TV HD [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8neLbDd.jpg" group-title="KITV LIVE",KI_EKATTOR TV HD [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="BDIX TV SERVERS",4_JAMUNA TV [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GKZxePQ.png" group-title="KITV LIVE",KI_JAMUNA TV [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="BDIX TV SERVERS",4_GAAN BANGLA [BD]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EuLoh3I.png" group-title="KITV LIVE",KI_GAAN BANGLA [BD]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/69.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="BDIX TV SERVERS",4_Durunto TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KITV LIVE",KI_Durunto TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/63.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_Star Jalsha HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_Star Jalsha HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="BDIX TV SERVERS",4_Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRiUu8kWuQLwaVp3Fbis5Exy8xPo1HVX2xA_28UcPHY34E4ZKBN&usqp=CAU" group-title="KITV LIVE",KI_Zee Bangla HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="BDIX TV SERVERS",4_Sony Aath
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTvDWzYRd2mLwaTDUaTaJk0tqetpdwxaX1cXftZR3QHsuC2WsW9&usqp=CAU" group-title="KITV LIVE",KI_Sony Aath
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_Akash Bangla
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_Akash Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9ifctck4cr7wnwp/ddbangla.jpg" group-title="BDIX TV SERVERS",4_DD Bangla
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/9ifctck4cr7wnwp/ddbangla.jpg" group-title="KITV LIVE",KI_DD Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/57.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ySyvc3o.jpg" group-title="BDIX TV SERVERS",4_Kolkata TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ySyvc3o.jpg" group-title="KITV LIVE",KI_Kolkata TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/59.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="BDIX TV SERVERS",4_Jalsha Movies
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="KITV LIVE",KI_Jalsha Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="BDIX TV SERVERS",4_Sangeet Bangla
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDk5QPMPqAT6lEMJxELAxP0L4-OVMR7qoAJq2676U4KAOHhYO1&usqp=CAU" group-title="KITV LIVE",KI_Sangeet Bangla
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/70.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="BDIX TV SERVERS",4_Star Plus
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTsqYP00JX6oXBCFzX0G7LdQ1GUt-yGdEn7dFB5V7hHYhca30g-&usqp=CAU" group-title="KITV LIVE",KI_Star Plus
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/27.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"group-title="BDIX TV SERVERS",4_Sony TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6c/SET_India.jpg"group-title="KITV LIVE",KI_Sony TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
-#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="BDIX TV SERVERS",4_Zee TV
+#EXTINF:-1 tvg-logo="https://cdn.clipart.email/8291b06b35c5c60621d830d0926a1a21_index-of-plexflixto-picons-indian-_1024-484.png" group-title="KITV LIVE",KI_Zee TV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/28.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="BDIX TV SERVERS",4_Colors
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="KITV LIVE",KI_Colors
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/30.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="BDIX TV SERVERS",4_AXN HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g7KwMCf.png" group-title="KITV LIVE",KI_AXN HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="BDIX TV SERVERS",4_Star Gold
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDUmB0gIAi09V2fJJ6Q9ScGRq3os4iPwinzyaJci8mPVMj5zvR&usqp=CAU" group-title="KITV LIVE",KI_Star Gold
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/32.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="BDIX TV SERVERS",4_Sony Max HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQFbWw-P6-HFTLl0rYmk8DzFOBek564ZpTlK8Nek5lHzq-8niJ2&usqp=CAU" group-title="KITV LIVE",KI_Sony Max HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_Zee Cinema
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_Zee Cinema
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_TVP
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_TVP
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_BFlix Movies
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_BFlix Movies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/35.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="BDIX TV SERVERS",4_Star Movies SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="KITV LIVE",KI_Star Movies SD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="BDIX TV SERVERS",4_HBO
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="KITV LIVE",KI_HBO
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="BDIX TV SERVERS",4_MN+ HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="KITV LIVE",KI_MN+ HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="BDIX TV SERVERS",4_Sony Pix SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="KITV LIVE",KI_Sony Pix SD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/39.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="BDIX TV SERVERS",4_& Flix
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="KITV LIVE",KI_& Flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="BDIX TV SERVERS",4_Sony Ten 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="KITV LIVE",KI_Sony Ten 1
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="BDIX TV SERVERS",4_Sony Ten 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="KITV LIVE",KI_Sony Ten 2
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/50.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="BDIX TV SERVERS",4_Sony SIX HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="KITV LIVE",KI_Sony SIX HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/49.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="BDIX TV SERVERS",4_Star Sports 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU" group-title="KITV LIVE",KI_Star Sports 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="BDIX TV SERVERS",4_Star Sports Select 1 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRTRFl6hSXeS1mPQ0DqOy3GU_JVY45Yj2x-pTR4orQrheauFZQD&usqp=CAU" group-title="KITV LIVE",KI_Star Sports Select 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="BDIX TV SERVERS",4_Star Sports Select 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQLJgDCNnSBTB40fYZEqNlHlemsytR0lzCqlhH8a-ksiN1ZH9LS&usqp=CAU" group-title="KITV LIVE",KI_Star Sports Select 2 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_D Sports
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_D Sports
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/54.ts
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="BDIX TV SERVERS",4_Discovery HD
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="KITV LIVE",KI_Discovery HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="BDIX TV SERVERS",4_TLC HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgc1vT5dGh0YGYKyNaYGpvazCi4uo-lKPX9jqtkigdmwKSDtcb&usqp=CAU" group-title="KITV LIVE",KI_TLC HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/45.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="BDIX TV SERVERS",4_BBC Lifestyle
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="KITV LIVE",KI_BBC Lifestyle
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/46.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="BDIX TV SERVERS",4_BBC EARTH
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="KITV LIVE",KI_BBC EARTH
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="BDIX TV SERVERS",4_History TV 18 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRwY3NXkCDkCBfaTMJfhirOv7qudK_V8-RU_C-uDdPGJ6KUtL2T&usqp=CAU" group-title="KITV LIVE",KI_History TV 18 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_Travel XP
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_Travel XP
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/23.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="BDIX TV SERVERS",4_Hum Masala
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTuIXMj-Ohe0Ht1zMCHMZjDNO-__D-dsNdnMYZILywDUr8fXHIq&usqp=CAU" group-title="KITV LIVE",KI_Hum Masala
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/33.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_E24 Music
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_E24 Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/83.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_Zing
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_Zing
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/81.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU" group-title="BDIX TV SERVERS",4_B4U Music
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTwPpZG-Zc721qCuySetMdAPcQ9qbGopnwBgov06dLITRWNQGoc&usqp=CAU" group-title="KITV LIVE",KI_B4U Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/79.ts 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="BDIX TV SERVERS",4_Music India
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTEUfSAD9DRRjtjW1MzoFtgmqm-iUMNV7VGgf3ozgV5LdIVTqMy&usqp=CAU" group-title="KITV LIVE",KI_Music India
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/84.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_Zee ETC
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_Zee ETC
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/73.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_MTV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_MTV
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_Masti Music
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_Masti Music
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/78.ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="BDIX TV SERVERS",4_BBC World
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQG_YlH8uhXAfE4OsY-dNpR9MNEGYuXf0mEjT32EGDgrsbxUzsE&usqp=CAU" group-title="KITV LIVE",KI_BBC World
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/56.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="BDIX TV SERVERS",4_CARTOON NETWORK HD+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KITV LIVE",KI_CARTOON NETWORK HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="BDIX TV SERVERS",4_Disney XD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="KITV LIVE",KI_Disney XD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="BDIX TV SERVERS",4_BBC Cbeebies
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KITV LIVE",KI_BBC Cbeebies
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="BDIX TV SERVERS",4_NICK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nick.svg/330px-Nick.svg.png" group-title="KITV LIVE",KI_NICK
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="BDIX TV SERVERS",4_Sonic
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/150px-Nickelodeon_Sonic_logo.png" group-title="KITV LIVE",KI_Sonic
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="BDIX TV SERVERS",4_Hum Sitary
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="KITV LIVE",KI_Hum Sitary
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/34.ts
 ######## ZEE5 #############
 #EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png" group-title="Zee5 (Need VPN INDIA)",Zee TV HD
