@@ -936,7 +936,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD (2)
 https://watchindia.net:8443/live/19681/88833/808.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD (3)
-http://45.249.187.238:8081/hls/new2.m3u8?@amarnettv.live
+http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD HINDI
 https://watchindia.net:8443/live/19681/88833/1072.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (1)
@@ -944,13 +944,13 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (2)
 https://watchindia.net:8443/live/19681/88833/1069.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (3)
-http://otv.ftpbd.net/streams/116/index.m3u8
+http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (2)
 https://watchindia.net:8443/live/19681/88833/1070.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (3)
-http://otv.ftpbd.net/streams/113/index.m3u8
+http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (4)
 http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD (1)
@@ -1174,9 +1174,9 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport12/liveori
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS LIVE",## SPORTS LIVE ##
 https://gitlab.com/amarnettv/free/-/raw/66fa238b6ffe15ec22da75009e42df7b9a21f60d/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [1]
-https://fancodealive1-a.akamaihd.net/5640e6e1df3b44358b5177dc65349535/ap-south-1/6008340455001/profile_0/chunklist_dvr.m3u8?hdnea=st=1598448482~exp=9007200853189473~acl=/5640e6e1df3b44358b5177dc65349535/*/profile_0/chunklist_dvr.m3u8*~hmac=39ccf6dc2cdbb4cd64bb2f0a8adae8f6bf030dff328d3b924cf5dd8a2e03fafc&__nn__=6055437325001
+https://fancodealive1-a.akamaihd.net:443/a2e297fa295744cda0ce66d8c92ccad1/ap-south-1/6008340455001/profile_0/chunklist_dvr.m3u8?hdnea=st=1598536077~exp=9007200853277068~acl=/a2e297fa295744cda0ce66d8c92ccad1/*/profile_2/chunklist_dvr.m3u8*~hmac=377890f5959720ada624150f2da11d8ca2166e60e3559f09acb917c0b3c3f3d4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [2]
-https://watchindia.net:8443/live/19681/88833/808.ts
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 1
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 2
