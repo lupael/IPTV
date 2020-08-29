@@ -1179,12 +1179,20 @@ https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport11/liveori
 https://vodcache.worldwidetv.club/root-c2/liveorigin-abr/af-supersport12/liveorigin/af-supersport12_480/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS LIVE",## SPORTS LIVE ##
 https://gitlab.com/amarnettv/free/-/raw/66fa238b6ffe15ec22da75009e42df7b9a21f60d/amarnettvFree.mp4
+#EXTINF: -1 tvg-logo="https://www.nj.com/resizer/baBfu2TSUQNE_OFr9_96dBBCSdE=/450x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q6XB7VZF2VFVDPXUBWVNOEA2YM.jpg" group-title="SPORTS LIVE",FA Cup Football Live [1]
+https://sonydai.akamaized.net/hls/live/2005444/DAI7ME/master.m3u8?hdnea=exp=1598796067~acl=/*~hmac=47a194a962c758213cac61e28c31791840bc474e32698cce0346a692a3296b58
+#EXTINF: -1 tvg-logo="https://www.nj.com/resizer/baBfu2TSUQNE_OFr9_96dBBCSdE=/450x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q6XB7VZF2VFVDPXUBWVNOEA2YM.jpg" group-title="SPORTS LIVE",FA Cup Football Live [2]
+https://watchindia.net:8443/live/53364/15983/2097.ts
+#EXTINF: -1 tvg-logo="https://www.nj.com/resizer/baBfu2TSUQNE_OFr9_96dBBCSdE=/450x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q6XB7VZF2VFVDPXUBWVNOEA2YM.jpg" group-title="SPORTS LIVE",FA Cup Football Live [3]
+https://daily4332.global.ssl.fastly.net/LiveApp/streams/488089170738024373883975.m3u8
+#EXTINF: -1 tvg-logo="https://www.nj.com/resizer/baBfu2TSUQNE_OFr9_96dBBCSdE=/450x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q6XB7VZF2VFVDPXUBWVNOEA2YM.jpg" group-title="SPORTS LIVE",FA Cup Football Live [4]
+http://ott-sports.ddns.net:8081/live/1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [1]
 https://fancodealive1-a.akamaihd.net:443/a2e297fa295744cda0ce66d8c92ccad1/ap-south-1/6008340455001/profile_0/chunklist_dvr.m3u8?hdnea=st=1598536077~exp=9007200853277068~acl=/a2e297fa295744cda0ce66d8c92ccad1/*/profile_2/chunklist_dvr.m3u8*~hmac=377890f5959720ada624150f2da11d8ca2166e60e3559f09acb917c0b3c3f3d4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [2]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 1
-http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
+https://sonydai.akamaized.net/hls/live/2005444/DAI8ME/master.m3u8?hdnea=exp=1598726113~acl=/*~hmac=7ccd6c16fcad20e34ab043d205ea09d83b48c5eb24bdf6e8dddcb3b287707cc8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 2
 https://vodcache.worldwidetv.club/root-c2/liveorigin/uk-skysports-cricket_720/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 3
