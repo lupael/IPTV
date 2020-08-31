@@ -1,6 +1,22 @@
-# AmarNetTV.live
+AmarNetTV.live :: Internet TV for All!!
 
-Internet TV for All!!
+আমার নেট টিভি :: সবার জন্য ইন্টারনেট টিভি
+
+আমারনেটটিভি হলো ইন্টারনেটে টিভি দেখার সহজ একটি মাধ্যম যেখানে ফ্রীতেই আপনি বাংলাদেশের সকল টিভি চ্যানেলসহ সারা পৃথিবীর হাজারের অধিক লাইভ টিভি চ্যানেল উপভোগ করতে পারবেন। তবে এজন্য অবশ্যই আপনার উচ্চগতির আনলিমিটেড ইন্টারনেট কানেকশন থাকতে হবে। এখানে উল্লেখ্য যে, আমরা কোন আইপি টিভি প্রোভাইডার নই এবং আমাদের কোন নিজস্ব এফটিপি টিভি সার্ভারও নেই। আমাদের তৈরি করা M3U লিঙ্ক অথবা এপসের মাধ্যমে আপনি এই সুবিধা পাবেন। ইন্টারনেটে উন্মুক্ত দেশ-বিদেশি বিভিন্ন টিভি চ্যানেলের স্ট্রিমিং লিঙ্কগুলো সগ্রহ করে সেগুলো এক জায়গায় করে একটি প্লে-লিস্ট তৈরি করি আমরা যাতে বিভিন্ন ক্যাটাগরী অনুযায়ী সব চ্যানেল একসাথে সাজানো থাকে। এসব চ্যানেলে যেসব কনটেন্ট থাকে অথবা যেসব অনুষ্ঠান প্রচারিত হয় তার সাথে আমারনেটটিভি-এর কোন সম্পর্ক নেই। 
+
+আমার নেট টিভি কি বাফারলেস?
+আমার নেট টিভি ১০০% বাফারলেস এটা আমরা কখনই বলিনা কারণ কোন চ্যানেল বাফার করবে কিনা তা নির্ভর করে আপনার নেট স্পিড, আপনার আইএসপি এবং যে সার্ভারে চ্যানেলটি আছে তার কার্যক্ষমতার উপর। সব গুলোই যখন ঠিক থাকবে আপনি বাফারলেস দেখতে পারবেন। আমরা যেহেতু কোন চ্যানেল নিজেদের সার্ভারে হোস্ট করিনা সুতরাং যে সার্ভার থেকে আমরা স্ট্রিমিং লিঙ্কটি সংগ্রহ করি তা যদি ডাউন হয় বা স্লো হয়ে যায় তখন চ্যানেলটিও বাফার করে। তাই বাফারিং এর কারণের সাথে আমাদের সম্পর্ক নেই বললেই চলে। তবে আমরা চেস্টা করি যা সার্ভার ভালো তার চ্যানেল আমাদের প্লে-লিস্টে যোগ করতে।
+
+আমার নেট টিভির চ্যানেল লিস্ট কি নির্ধারিত?
+আমার নেট টিভিতে আপনি বাংলাদেশের সকল টিভি চ্যানেল সহ বিশ্বের অসংখ্য জনপ্রিয় চ্যানেল দেখতে পাবেন। তবে এই চ্যানেলগুলো জন্য আমরা পুরোপুরি নির্ভরশীল টিভি সার্ভার ও স্ট্রিমিং সার্ভার গুলোর উপর। কোন চ্যানেলের স্ট্রিমিং লিঙ্ক বন্ধ হয়ে গেলে বা ইন্টারনেটে কোথাও না পাওয়া গেলে সেই চ্যানেলটি আমরাও আর দেখাতে পারব না। আবার আমরা নতুন কোন চ্যানেলের স্ট্রিমিং লিঙ্ক পেলে সেটি এড করে দেই প্লে-লিস্টে। তার সাথে নতুন মুভি, ওয়েব সিরিজ এসবও প্রতিনিয়ত এড করি আমরা। তাই চ্যানেল লিস্ট/প্লে-লিস্ট এটা পরিবর্তনশীল।
+
+আমরা সাবস্ক্রিপশন চার্জ কত? 
+আমার নেট টিভির বর্তমান প্যাকেজ সম্পূর্ণ ফ্রী যাতে আপনি দেশ-বিদেশের অসংখ্য লাইভ চ্যানেল উপভোগ করতে পারবেন। তভে আপনি যদি লাইভ টিভি চ্যানেলের পাশাপাশি মুভি, ওয়েবসিরিজ ইত্যাদি দেখতে চান তবে তার সাবস্ক্রিপশন ফি ১২০ টাকা। সাবস্ক্রাইব করতে আমাদের ফেসবুক পেজে যোগাযোগ করুনঃ [www.fb.com/amarnettv](https://www.facebook.com/amarnettv)
+
+কীভাবে আমারনেটটিভি দেখবেন?
+আপনি পিসি/ল্যাপটপ-এ দেখতে চাইলে নিচে দেয়া উইন্ডোজ সফটওয়ার গুলো ডাউনলোড করে অপশনে আমাদের লিঙ্কটি ব্যবহার করে আমাদের পুরো প্লে-লিস্ট দেখতে পারবেন। আপনি যদি এন্ড্রয়েড যে কোন ডিভাইসে দেখতে চান তবে বিভিন্ন আইপিটিভি প্লেয়ার এপসে আমাদের লিঙ্ক ব্যবহার করে দেখতে পারবেন। কিছু ভালো আইপিটিভি এপসের প্রিমিয়াম ভার্সন লিঙ্ক নিচে দেয়া রয়েছে। এছাড়া আমারনেটটিভির নিজস্ব এপস দিয়েও আপনি দেখতে পারবেন। এক্ষেত্রে আমাদের এপসে দেখতে হলে আপনার একটি একটিভেশন কোড লাগবে। একটিভেশন কোড পেতে আমাদের ফেসবুক পেজে যোগাযোগ করুন। 
+
+
 
 ## Contents
 
@@ -37,11 +53,11 @@ Applications with support of IPTV streams.
 
 #### Android
 
-- [NET IP TV](https://play.google.com/store/apps/details?id=com.dnamedya.netiptv)
-- [Kodi](https://play.google.com/store/apps/details?id=org.xbmc.kodi) - Free cross-platform media player with library support.
-- [IPTV Simple PVR](https://kodi.tv/addon/pvr-client/pvr-iptv-simple-client) - IPTV Live TV and Radio PVR client addon for Kodi.
-- [KgTv Player](https://play.google.com/store/apps/details?id=tk.kgtv) - IPTV player with support quality change, search, export and modification of channels.
-- [Perfect Player IPTV](https://play.google.com/store/apps/details?id=com.niklabs.pp&hl=en) - Set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
+- [AMARNETTV LIVE](https://drive.google.com/file/d/1EgUaAj5qt4uryRLCUZ88G1HYNQJvNWy5/view?usp=sharing) - Need activation code to access our playlist
+- [Televizo IPTV Player](https://drive.google.com/file/d/1x542FLeS9zGhyveZtajlNWnyCRqkMRgB/view?usp=sharing) - Free best IPTV player where you can add multiple playlist.
+- [TiVimate](https://drive.google.com/file/d/19z-lim_r6326EMfoNd2wp6USPJO7fZ8S/view?usp=sharing) - IPTV Player for Android TV box.
+- [IPTV Pro](https://drive.google.com/file/d/1YbUM7p4cX534pOK9aPK78BoqQC8_4LEq/view?usp=sharing) - IPTV player which supports external player also.
+- [Perfect Player IPTV](https://drive.google.com/file/d/1pXfEHUEqvlpS7iLmPobC1SqkwIszj4o6/view?usp=sharing) - Set-top box style IPTV/Media player for watching videos on TVs, tablets and smartphones.
 - [IPTV Smarters Pro](https://play.google.com/store/apps/details?id=com.nst.iptvsmarterstvbox&hl=en) - Media Player App For Android TV, Android Phone and Android Tab.
 - [VLC for Android](https://play.google.com/store/apps/details?id=org.videolan.vlc) - Free and open-source portable cross-platform media player.
 
