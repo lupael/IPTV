@@ -1064,7 +1064,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS LIVE",## SPORTS LIVE ##
 https://github.com/amarnettv/go/raw/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [1]
-https://sonydai.akamaized.net/hls/live/2005444/DAI8ME/master.m3u8?hdnea=exp=1598891734~acl=/*~hmac=f4b501928596061035d586a43600809790c7472d057df9582cf7923a0c3f0682
+https://fancodealive1-a.akamaihd.net/97c23cbb8edd4ff5b3b417fa52e3da3d/ap-south-1/6008340455001/profile_0/chunklist_dvr.m3u8?hdnea=st=1598968839~exp=9007200853709830~acl=/97c23cbb8edd4ff5b3b417fa52e3da3d/*/profile_0/chunklist_dvr.m3u8*~hmac=0f77b758fedb5ad5047d6d1407675ca70100890519087870aa531ed3439e20ec&nn=6055437325001
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [2]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 1
