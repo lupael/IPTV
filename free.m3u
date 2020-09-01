@@ -132,7 +132,7 @@ https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA ENT.",Zee Bangla Cinema [IN]
 https://raw.githubusercontent.com/amarnettv/live/master/zbanglacinema.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN]
-https://raw.githubusercontent.com/amarnettv/live/master/jalshamovieshd.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies [IN]
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="BANGLA ENT.",Tollywood [IN]
@@ -488,7 +488,7 @@ https://watchindia.net:8443/live/66440/46279/784.ts
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="IND. MOVIES",&Xplor HD
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/143805
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="IND. MOVIES",SONY MAX FHD
-https://raw.githubusercontent.com/amarnettv/live/master/setmaxhd.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="IND. MOVIES",SONY MAX HD
 https://watchindia.net:8443/live/66440/46279/788.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="IND. MOVIES",SONY MAX
@@ -1064,7 +1064,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS LIVE",## SPORTS LIVE ##
 https://github.com/amarnettv/go/raw/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [1]
-https://fancodealive1-a.akamaihd.net:443/a2e297fa295744cda0ce66d8c92ccad1/ap-south-1/6008340455001/profile_0/chunklist_dvr.m3u8?hdnea=st=1598536077~exp=9007200853277068~acl=/a2e297fa295744cda0ce66d8c92ccad1/*/profile_2/chunklist_dvr.m3u8*~hmac=377890f5959720ada624150f2da11d8ca2166e60e3559f09acb917c0b3c3f3d4
+https://sonydai.akamaized.net/hls/live/2005444/DAI8ME/master.m3u8?hdnea=exp=1598891734~acl=/*~hmac=f4b501928596061035d586a43600809790c7472d057df9582cf7923a0c3f0682
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [2]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 1
