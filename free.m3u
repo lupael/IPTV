@@ -850,7 +850,7 @@ https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-id="0-9-290" tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png" group-title="KIDS ENT.",ZEE5 Kids
 https://www.googleapis.com/drive/v3/files/18WRuc32Sca6yvv6z9AGOY-pzLuEUNZmg?alt=media&key=AIzaSyBU24teyChPON-pFofpmZkRFHiYNqIyO-g
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS ENT.",CARTOON NETWORK
-http://starshare.live:8080/live/vip216/64587929/8.ts
+http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="KIDS ENT.",CARTOON NETWORK HD+
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="KIDS ENT.",BBC Cbeebies
@@ -862,7 +862,7 @@ https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_hig
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="KIDS ENT.",POGO
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/112864
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="KIDS ENT.",Disney
-http://45.249.187.238:8081/hls/live0.m3u8
+http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/112872
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20fs4tp.png" group-title="KIDS ENT.",Disney Junior
 https://watchindia.net:8443/live/71446/19395/2105.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="KIDS ENT.",Disney XD
