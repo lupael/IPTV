@@ -46,7 +46,7 @@ https://amarnettv.github.io/channels/deepto.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/z9ca0b0m8zo4f4b/bangla-tv-bd.png" group-title="BANGLA ENT.",BANGLA TV HD [BD]
 https://amarnettv.github.io/channels/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4av1om6yhu12w9j/nagorik-bd.png" group-title="BANGLA ENT.",NAGORIK TV HD [BD]
-http://45.249.187.238:8081/hls/new16.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/59
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png" group-title="BANGLA ENT.",ATN NEWS [BD]
 https://amarnettv.github.io/channels/atnnews.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png" group-title="BANGLA ENT.",INDEPENDENT TV [BD]
@@ -84,7 +84,7 @@ http://103.205.133.14/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (1)
 https://edge01.iptv.digijadoo.net/live/star_jalsha_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN] (2)
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/34
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ENT.",Zee Bangla SD [IN] (1)
 https://edge01.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ENT.",Zee Bangla SD [IN] (2)
@@ -106,7 +106,7 @@ http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath  SD [IN] (2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath  HD [IN]
-http://ccn.anytv.live:8080/sonyaath/track-v1a1/mono.m3u8 
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/33
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="BANGLA ENT.",Akash Aath [IN]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/98.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="BANGLA ENT.",DD Bangla [IN]
@@ -130,9 +130,11 @@ https://streamitv.multitvsolution.in/idvo/banglatimetv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/News_Time_new_logo.png" group-title="BANGLA ENT.",News Time Bangla [IN]
 https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA ENT.",Zee Bangla Cinema [IN]
-https://amarnettv.github.io/channels/zbanglacinema.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN]
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/29
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN] (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN] (2)
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/31
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies [IN]
 https://edge01.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/izK1zjI.jpg" group-title="BANGLA ENT.",Tollywood [IN]
@@ -264,7 +266,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/26.ts
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png" group-title="IND. ENT.",SONY HD
 https://watchindia.net:8443/live/71446/19395/1969.ts
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="IND. ENT.",SONY SAB
-http://45.249.187.238:8081/hls/tsl-4.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/36
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png" group-title="IND. ENT.",SONY SAB HD
 https://watchindia.net:8443/live/71446/19395/781.ts
 #EXTINF:-1 tvg-logo="https://origindev-static.sonyliv.com/UI_icons/Sony_pal.png" group-title="IND. ENT.",SONY PAL
@@ -572,7 +574,7 @@ https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="WORLD MOVIES",MBC Action FHD
 https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="WORLD MOVIES",Sony Pix HD
-https://watchindia.net:8443/live/71446/19395/2101.ts
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/41
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="WORLD MOVIES",Sony Pix FHD
 http://103.205.133.19/hls/sonypix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="WORLD MOVIES",Sony Pix
@@ -598,7 +600,7 @@ https://watchindia.net:8443/live/71446/19395/2080.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIfMrhI.png" group-title="WORLD MOVIES",Star Movies SD
 http://45.249.187.238:8081/hls/tsl-8.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jl8gccd.jpg" group-title="WORLD MOVIES",Star Movies Select HD
-http://103.214.202.218:8081/live/starsports1/chunks.m3u8
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="WORLD MOVIES",Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="WORLD MOVIES",Movies Now HD
@@ -614,7 +616,7 @@ https://watchindia.net:8443/live/71446/19395/2103.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="WORLD MOVIES",& Flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="WORLD MOVIES",& Flix HD
-http://103.49.168.172:8081/ebox/in_andflix_hd/chunks.m3u8
+https://watchindia.net:8443/live/71446/19395/2088.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="WORLD MOVIES",FOX Movies HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="WORLD MOVIES",FOX Action Movies 1
@@ -625,24 +627,6 @@ http://103.47.132.165/PLTV/88888888/224/3221227121/1.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227117/1.m3u8
 #EXTINF:-1 tvg-logo="https://movies.hitstv.com/img/hits-movies-logo.png" group-title="WORLD MOVIES",Hits Movies
 http://103.47.132.165/PLTV/88888888/224/3221227331/2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CLCmC5f.png" group-title="WORLD MOVIES",NIMO MOVIES 1
-http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CLCmC5f.png" group-title="WORLD MOVIES",NIMO MOVIES 2
-https://ws.flv.nimo.tv/live/su1599512427609rec4c3a4d7d72c1946e09a8d6ca157304.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nu9SJOy.jpg" group-title="WORLD MOVIES",MARVEL MOVIES
-http://ws.flv.nimo.tv:80/live/su1599512427626re02097385902583d031254e5d6f0c321.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjDFBp2.jpg?1" group-title="WORLD MOVIES",DC MOVIES
-https://ws.flv.nimo.tv/live/su1599512427641r25f7c2cb1ceea0ee202f7d6b35e93a1c_high.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rUxEBRB.jpg" group-title="WORLD MOVIES",007:JAMES BOND MOVIES
-http://tx.flv.nimo.tv:80/live/su1599512427635r42b9eee8a790b0e2fc8e1a6ba0562e37.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qxaEeIZ.jpg" group-title="WORLD MOVIES",JACKIE CHAN MOVIES
-https://tx.flv.nimo.tv/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b_high.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lL9LBaQ.jpg" group-title="WORLD MOVIES",TOM CRUISE MOVIES
-https://ws.flv.nimo.tv/live/su1599512427588r6f51cee87c7a082b0df74e113ebeae52_high.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BwKnWck.jpg" group-title="WORLD MOVIES",STEPHEN CHOW MOVIES
-https://ws.flv.nimo.tv/live/su1599512427555r836c741032fe0c717363f3d8165710c2_high.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w49wabz.jpg" group-title="WORLD MOVIES",ANDI LAU MOVIES
-https://ws.flv.nimo.tv/live/su1599512427587rce1db8ffd07a499d761f665cc1a8551e.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pWnecuO.jpg" group-title="WORLD MOVIES",TV 1000 HD
 http://live-ng-01.more.tv/hls/TV1000_HD/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbjBQFw.jpg" group-title="WORLD MOVIES",TV 1000 Action HD
@@ -661,10 +645,6 @@ http://104.250.154.42:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvkadak.stream/live-orgin/btvkadak.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="WORLD MOVIES",LOTUS MACAU
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yT02hK6.jpg?1" group-title="WORLD MOVIES",MANDARIN MOVIES 1
-https://tx.flv.nimo.tv/live/su1599512427548r9773230416815566776f512b673586f7_high.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yT02hK6.jpg?1" group-title="WORLD MOVIES",MANDARIN MOVIES 2
-https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92_high.flv
 #EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cinemax.png" group-title="WORLD MOVIES",Cinemax 
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cPneq0f.png" group-title="WORLD MOVIES",THRILL HD
@@ -857,8 +837,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/64.ts?@amarnettv.live
 https://edge01.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="KIDS ENT.",Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6sbsbHc.png" group-title="KIDS ENT.",Tom & Jerry TV
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="KIDS ENT.",POGO
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/112864
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="KIDS ENT.",Disney
@@ -908,27 +886,33 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 1 HD
 https://watchindia.net:8443/live/71446/19395/1756.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RgdbIbc.png" group-title="SPORTS",Sony Ten 1 (1)
-http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/20
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 (2)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HOB0eef.jpg" group-title="SPORTS",Sony Ten 1 (3)
-http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
+http://103.214.202.218:8081/live/ten1hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="SPORTS",Sony Ten 2 HD
 https://watchindia.net:8443/live/71446/19395/1757.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvVbPky.png" group-title="SPORTS",Sony Ten 2 (1)
-http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/21
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 (2)
+http://103.214.202.218:8081/live/ten2hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ryh5Cdy.jpg" group-title="SPORTS",Sony Ten 2 (3)
 http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9mL944k.jpg" group-title="SPORTS",Sony Ten 3 HD
 http://103.214.202.218:8081/live/ten3hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 (1)
 https://watchindia.net:8443/live/71446/19395/1758.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 (2)
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/22
+#EXTINF:-1 tvg-logo="https://i.imgur.com/06Nj1LS.png" group-title="SPORTS",Sony Ten 3 (3)
 http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX (1)
-http://103.49.168.172:8081/ebox/six/chunks.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/24
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX (2)
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX (3)
+http://103.49.168.172:8081/ebox/six/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX HD (1)
 https://watchindia.net:8443/live/71446/19395/1763.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX HD (2)
@@ -936,9 +920,9 @@ http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD (2)
-https://watchindia.net:8443/live/71446/19395/808.ts
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/25
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD (3)
-http://87.117.234.107:1935/live/StarSports1FHD/playlists.m3u8
+https://watchindia.net:8443/live/71446/19395/808.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD HINDI
 https://watchindia.net:8443/live/71446/19395/1072.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (1)
@@ -946,27 +930,23 @@ http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (2)
 https://watchindia.net:8443/live/71446/19395/1069.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (3)
-http://87.117.234.107:1935/live/StarSports2FHD/playlist.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/26
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/51.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (2)
 https://watchindia.net:8443/live/71446/19395/1070.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (3)
-http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (4)
-http://87.117.234.107:1935/live/StarSportsSelect1FHD/playlists.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/27
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/52.ts
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD (2)
 https://watchindia.net:8443/live/71446/19395/1071.ts
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD (3)
-http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD (4)
-http://87.117.234.107:1935/live/StarSportsSelect2FHD/playlists.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/28
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="SPORTS",Willow HD
 https://watchindia.net:8443/live/71446/19395/1067.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD (1)
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_skycricket/chunks.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/71
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D05Y748.png" group-title="SPORTS",Sky Cricket HD (2)
 https://watchindia.net:8443/live/71446/19395/2090.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/s7iXDLT.jpg" group-title="SPORTS",Sky Sports Football
@@ -994,7 +974,7 @@ http://45.249.187.238:8081/hls/hdmi3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NMTFeaH.jpg" group-title="SPORTS",PTV Sports (2)
 https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports (1)
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_tensports/chunks.m3u8
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist_w1876894388.m3u8
 #EXTINF:-1 tvg-logo="https://statics.sportskeeda.com/wp-content/uploads/2013/10/ten-sports-logo-1963422-1024x246.png" group-title="SPORTS",Ten Sports (2)
 https://watchindia.net:8443/live/71446/19395/1068.ts
 #EXTINF:-1 tvg-logo="https://www.geosuper.tv/assets/front/img/live_banner.jpg" group-title="SPORTS",Geo Super (1)
@@ -1026,7 +1006,7 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?@amarnettv.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OxIKeaX.jpg" group-title="SPORTS",GOLTV
 http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VydQYEg.jpg" group-title="SPORTS",ESPN
-http://103.49.168.172:8081/ebox/espn/chunks.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/23
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/220px-Eurosport_Logo_2015.svg.png" group-title="SPORTS",Euro Sports 1
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600&checkedby
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://abudhabi3x3.files.wordpress.com/2015/10/adsports.png",Abu Dhabi Sports 1
@@ -1068,7 +1048,7 @@ https://fancodealive1-a.akamaihd.net/97c23cbb8edd4ff5b3b417fa52e3da3d/ap-south-1
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [2]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 1
-https://sonydai.akamaized.net/hls/live/2005444/DAI8ME/master.m3u8?hdnea=exp=1598726113~acl=/*~hmac=7ccd6c16fcad20e34ab043d205ea09d83b48c5eb24bdf6e8dddcb3b287707cc8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/71
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 2
 http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 3
@@ -1245,7 +1225,7 @@ http://104.237.60.234/live/gabruutv.m3u8?@amarnettv.live
 https://amarnettv.github.io/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="WORLD MUSIC",VH1
 http://103.214.202.218:8081/live/satmax-37/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/VH1_India2016.png" group-title="WORLD MUSIC",VH1 Italia
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png" group-title="WORLD MUSIC",VH1 Italia
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="WORLD MUSIC",Ary Musik
 https://edge01.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
@@ -1327,7 +1307,7 @@ http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zsoueaz2vydig4u/WMUSIC.png" group-title="WORLD MUSIC",Sky Folk
 http://skyfolk.mk/live.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",USERS' CHOICE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="USER'S CHOICE",USERS' CHOICE
 https://dl.dropbox.com/s/87iu9gyh3lxp3tc/User%20Guide-%20AMARNETTV%20Android%20app_Full-HD.mp4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",HISTORY TV SEA
 http://103.47.132.165/PLTV/88888888/224/3221227335/2.m3u8
