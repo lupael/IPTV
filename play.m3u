@@ -307,8 +307,6 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
 https://edge01.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png" group-title="WORLD ENT.",Comedy Central HD
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://fanart.tv/fanart/tv/76316/clearart/mr-bean-4de911d0c8d56.png" group-title="WORLD ENT.",MR BEAN TV
-http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="WORLD ENT.",Colors Infinity
 https://edge01.iptv.digijadoo.net/live/colors_infinity/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="WORLD ENT.",WB TV
@@ -329,12 +327,6 @@ http://live-ng-01.more.tv/hls/VIP_SERIAL/index_1.m3u
 http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJ8r6Rj.png" group-title="WORLD ENT.",HITS
 http://103.47.132.165/PLTV/88888888/224/3221227329/1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T1lZFNZ.jpg" group-title="WORLD ENT.",NIMO SERIES: SHERLOCK
-https://ws.flv.nimo.tv/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5_high.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lmd3GfA.jpg" group-title="WORLD ENT.",NIMO SERIES: THE BLACK LIST
-https://ws.flv.nimo.tv/live/su1599512427618rc421cef9846ced5a2d168c70133b07b0_high.flv
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8z2wUM.jpg" group-title="WORLD ENT.",NIMO SERIES: S.H.I.E.L.D
-https://ws.flv.nimo.tv/live/su1599512427614r64c6b58ca12709ecc72d82d4f45a42cf_high.flv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ogzQuzh.jpg" group-title="WORLD ENT.",Cine Series
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Zee_World.png" group-title="WORLD ENT.",Zee World
@@ -466,7 +458,7 @@ https://edge01.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="IND. MOVIES",Zee Cinema UK
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/29.ts
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="IND. MOVIES",Zee Cinema HD
-https://watchindia.net:8443/live/71446/19395/787.ts
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/76
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="IND. MOVIES",Zee Bollywood
 https://edge01.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="IND. MOVIES",Zee Action
@@ -476,7 +468,7 @@ https://watchindia.net:8443/live/71446/19395/820.ts
 #EXTINF:-1 tvg-id="0-9-176" tvg-logo="https://akamaividz.zee5.com/resources/0-9-176/list/386x386/09176zeeclassic.png" group-title="IND. MOVIES",Zee Classic
 https://watchindia.net:8443/live/71446/19395/802.ts
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="IND. MOVIES",And Picture
-http://45.249.187.238:8081/hls/tsl-2.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/100
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="IND. MOVIES",And Picture HD
 http://103.205.133.19/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold.png" group-title="IND. MOVIES",Star Gold
@@ -484,7 +476,7 @@ https://edge01.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png" group-title="IND. MOVIES",Star Gold HD
 https://edge01.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cc/Star_Gold_2.svg/revision/latest/scale-to-width-down/340?cb=20200210144548" group-title="IND. MOVIES",Star Gold 2
-https://edge01.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
+https://edge01.iptv.digijadoo.net/live/star_gold_2/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_Select.png" group-title="IND. MOVIES",Star Gold Select HD
 https://watchindia.net:8443/live/71446/19395/784.ts
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-209/list/386x386/09209xplorhd.png" group-title="IND. MOVIES",&Xplor HD
@@ -494,11 +486,11 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="IND. MOVIES",SONY MAX HD
 https://watchindia.net:8443/live/71446/19395/788.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="IND. MOVIES",SONY MAX
-http://216.144.250.174/Sony_Max_HD/tracks-v1a1/mono.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/77
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="IND. MOVIES",Sony MAX2
-https://watchindia.net:8443/live/71446/19395/2024.ts
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/37
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="IND. MOVIES",SONY WAH
-http://216.144.250.174/Sony_MIx_HD/tracks-v1a1/mono.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/47
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Bollywood_BoxOffice_HD.png" group-title="IND. MOVIES",Bollywood BoxOffice HD
 https://watchindia.net:8443/live/71446/19395/819.ts
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/xt8ssazw0dlxbv9/SB.PNG" group-title="IND. MOVIES",Shemaroo Premiere HD
@@ -1172,7 +1164,7 @@ https://edge01.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8?@amarnettv.liv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="BANGLA MUSIC",Dhoom Music [IN]
 https://edge01.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QOadxzR.png" group-title="BANGLA MUSIC",Bangla Talkies [IN]
-https://streamhoichoi.multitvsolution.in/live/BanglaTalkies-h/p5.m3u8
+http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/91
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="HINDI MUSIC",## HINDI MUSIC ##
 https://amarnettv.github.io/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="HINDI MUSIC",Zoom
@@ -2335,118 +2327,6 @@ https://dai.google.com/linear/hls/event/zcWPVCfURNSPxeidcckQLA/master.m3u8?iu=/4
 https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FCwMOWX.png" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",505 | CBSN Philly
 https://dai.google.com/linear/hls/event/Xu-ITJ2GTNGaxGn893mmWg/master.m3u8?iu=/4128/CBS.PHILLY.OTT
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Young Hollywood
-https://a.jsrdn.com/broadcast/e0f99ab19c/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | People TV
-https://a.jsrdn.com/broadcast/b5d2k0x/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Unidentified
-https://a.jsrdn.com/broadcast/4hhfi556/indexR404p.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Pop Star 
-https://a.jsrdn.com/broadcast/wAlxn4cs/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Latido Music
-https://a.jsrdn.com/broadcast/g8sfF32l0/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Chive TV
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Comedy Dynamic
-https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Dry Bar Comedy
-https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Studio C
-https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | bspoketv
-https://bspoketv.nexustreamer.com/distrotv-usa/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Global Fashion
-https://a.jsrdn.com/broadcast/33ee2rtf5/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Saveur
-https://a.jsrdn.com/broadcast/060753d37e/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Gusto
-https://a.jsrdn.com/broadcast/ebf95254ca/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | alee+
-https://a.jsrdn.com/broadcast/55fgy6xc3/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Fashion TV
-https://a.jsrdn.com/broadcast/ftv2/-0500/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Popular Science
-https://a.jsrdn.com/broadcast/447912f76b/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | IDG
-https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | The Boat Show
-https://a.jsrdn.com/broadcast/256ccf645e/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Brut.
-https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | NewsMax TV
-https://nmxdistro.akamaized.net/hls/live/529965/Live_1/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Real Vision
-https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | The First 
-https://a.jsrdn.com/broadcast/h3h4gsui4/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Dove Channel
-https://a.jsrdn.com/broadcast/76yg4erz/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | CONtv
-https://a.jsrdn.com/broadcast/44hgsuu7/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | The Film Detective
-https://a.jsrdn.com/broadcast/9Kl3dcb5l/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Electric Now
-https://a.jsrdn.com/broadcast/vf93fRSk7/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Bambu
-https://a.jsrdn.com/broadcast/g44kshi9X/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Movie Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Monarch Channel
-https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Hard Knocks
-https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Stadium
-https://a.jsrdn.com/broadcast/zx23ar15xx/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | MMA Junkie
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | FTF [Geo-USA]
-https://a.jsrdn.com/broadcast/432fS3OX/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Fighting Spirit
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Sportskool TV
-https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Motorcyclist
-https://a.jsrdn.com/broadcast/256ad9e679/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Cycle World
-https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Lax Sport Network
-https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Outside TV
-https://a.jsrdn.com/broadcast/3gT64sH/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | World of Free Sport
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Horizon Sports
-https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Field & Stream
-https://a.jsrdn.com/broadcast/7536b84786/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Fireplace Lounge
-https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Fish Tank
-https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Relaxing Rain
-https://a.jsrdn.com/broadcast/76381deeda/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Island Escape
-https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Tranquil T'storms
-https://a.jsrdn.com/broadcast/18b42f9aef/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Bollywood TV
-https://a.jsrdn.com/broadcast/d5b45/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Brit Asia
-https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | MATV Live
-https://a.jsrdn.com/broadcast/22677_J8PT4x6prY/-0500/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Channel-S Live
-https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | NTV LIVE
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Venus TV
-https://a.jsrdn.com/broadcast/22690/-0500/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Everyday Heroes
-https://a.jsrdn.com/broadcast/7b1451fa52/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Honor TV
-https://a.jsrdn.com/broadcast/d5b48/+0000/c.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DistroTV_250x250.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Distro TV | Titanic TV
-https://a.jsrdn.com/broadcast/22719/+0000/c.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PlutoTV_NewLogo_380x380.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Pluto | 140 Stories By AMC
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appVersion=5.3.0-e3758f07a78fd8164177c00fbbebcd583ecf4900&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceLat=40.8364&deviceLon=-74.1403&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=68.0.3618.63&includeExtendedEvents=false&marketingRegion=US&sid=3053e2d1-b24b-4567-8093-8b28d8a46194&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/PlutoTV_500x500.png" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Pluto | 141 TV Land Drama
@@ -2581,8 +2461,7 @@ https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3
 https://magnolia-redbox.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-redbox/CDN/playlist.m3u8?p=Redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" group-title="STIRR/DISTRO/PLUTO/REDBOX TV (USA)",Redbox | Reelz Channel
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-
-################### MBC (ARAB) ################
+###### MBC (ARAB) ########
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="MBC (ARAB)",AR:MY-MBC 1 FHD
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR:MY-MBC 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="MBC (ARAB)",AR:MY-MBC 2 FHD
@@ -2783,20 +2662,6 @@ http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",LOVE NATURE 4K UHD
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",U.HD (Фильмы без рекламы)
-http://ultotv.ru:8888/live/uhd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",STR TV (Фильмы без рекламы)
-http://hls.goodgame.ru/hls/130048.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",PZN Streams (Фильмы без рекламы)
-http://hls.goodgame.ru/hls/12949.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",FILM TV
-https://hls.goodgame.ru/hls/165462.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Боевик ТВ
-https://v2.catcast.me/content/37493/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Кинозал  ( СССР )
-https://v2.catcast.me/content/36506/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Любимое индийское кино
-https://v2.catcast.me/content/37353/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Ultra HD Cinema HD
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSHD.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Ultra REX HD
@@ -2859,8 +2724,6 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_5.m3u8
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_6.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",NTV +7
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_7.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",RUSSIA HD
-http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",RUSSIA1 -1
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",RUSSIA1 0
@@ -2937,8 +2800,6 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_5.m3u8
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_6.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",5TV +7
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_7.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",TNT HD
-https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",TNT -1
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT-1.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",TNT 0
@@ -2995,8 +2856,6 @@ http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",STS Love (+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_7.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",FRIDAY HD
-http://85.112.114.11:8086/udp/233.170.170.112:58631
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",FRIDAY! (+2)
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY_2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",FRIDAY! (+4)
@@ -3009,22 +2868,16 @@ http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_2.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_4.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",U(+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_7.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Super HD
-http://195.191.208.2:8086/udp/229.54.15.90:1234
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",SUPER (+2)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",SUPER (+4)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_4.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",SUPER (+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_7.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",kaledoskop
-http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",RENTV (+2)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",RENTV (+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_7.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",ZVEZDA HD
-http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",ZVEZDA
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",ZVEZDA (+2)
@@ -3033,10 +2886,6 @@ http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_2.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_4.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",ZVEZDA (+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_7.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",360
-http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",7 TV
-http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",OTR
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTR.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",OBJECTIVE 59 HD
@@ -3059,8 +2908,6 @@ http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NSK_49CHANNEL_NSK.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTSHD_NSK.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",NTN 24
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTN24_NSK.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",9volna
-http://cdn-01.bonus-tv.ru:8080/9volna/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",UTV
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UTV_CHR.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",YAMREG
@@ -3069,24 +2916,14 @@ http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_YAMREG_YNF.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KASKAD_KLGR.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",1OBLASTNOY
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1OBLASTNOY_ORL.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",НNTV HD
-http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",VOLGA
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGA_NN.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",1GORODSKOY
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1GORODSKOY_NN.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",TV-1000
-rtmp://erostv.cdnvideo.ru/erostv/erostv.sdp
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",1000k
-http://213.234.30.38/Live/1000k/stream.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",VOLGOGRAD 1 HD
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGOGRAD1HD_VGRAD.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",VOLGOGRAD 24 HD
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGOGRAD24HD_VGRAD.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",telekanal
-http://flussonic.powernet.com.ru:8080/telekanal_internet/tracks-v2a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",moscow
-http://moscow.gubernia.online/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",GUBERNIA SAMARA
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GUBERNIA_SAMARA.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",SAMARAGIS SAMARA
