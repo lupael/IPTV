@@ -1327,6 +1327,39 @@ http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
 http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/zsoueaz2vydig4u/WMUSIC.png" group-title="WORLD MUSIC",Sky Folk
 http://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",USERS' CHOICE
+https://dl.dropbox.com/s/87iu9gyh3lxp3tc/User%20Guide-%20AMARNETTV%20Android%20app_Full-HD.mp4
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",HISTORY TV SEA
+http://103.47.132.165/PLTV/88888888/224/3221227335/2.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",History TV
+http://84.22.43.246:8000/play/a02h
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",HG TV SEA http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",DISCOVERY SEA
+http://103.47.132.165:80/PLTV/88888888/224/3221227161/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",NAT GEO SEA
+http://103.47.132.164/PLTV/88888888/224/3221227177/1.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",TLC SEA
+http://103.47.132.165/PLTV/88888888/224/3221227113/1.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",Smithsoninian Channel 
+http://103.47.132.164/PLTV/88888888/224/3221227321/3.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",Asia Food Network
+http://103.47.132.164/PLTV/88888888/224/3221227191/1.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",Fox SEA
+http://103.47.132.165:80/PLTV/88888888/224/3221227277/1.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",FX SEA
+http://103.47.132.165/PLTV/88888888/224/3221227139/1.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",WB SEA
+http://203.154.243.89:11205
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",Filmbox extra HD
+http://84.22.43.246:8000/play/a08c
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",Filmbox Premium
+http://84.22.43.246:8000/play/a08b
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",Africa News
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/AfricaNews.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",CNN
+http://203.162.235.41:16918 
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",BBC
+http://203.162.235.41:16917
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="JADOO LIVE",JD_Sangsad TV [BD]
 https://edge01.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="JADOO LIVE",JD_BTV WORLD [BD]
@@ -1493,7 +1526,7 @@ http://45.249.187.238:8081/hls/live7.m3u8
 http://45.249.187.238:8081/hls/live1.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Jamuna TV
 http://45.249.187.238:8081/hls/live2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="MOVIE BAZAR TV",MB_Deepto TV
+#EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Deepto TV
 http://45.249.187.238:8081/hls/new22.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Nagorik TV
 http://45.249.187.238:8081/hls/new16.m3u8
