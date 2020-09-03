@@ -1044,7 +1044,7 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?@amarnettv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS LIVE",## SPORTS LIVE ##
 https://amarnettv.github.io/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [1]
-https://fancodealive1-a.akamaihd.net/97c23cbb8edd4ff5b3b417fa52e3da3d/ap-south-1/6008340455001/profile_0/chunklist_dvr.m3u8?hdnea=st=1598968839~exp=9007200853709830~acl=/97c23cbb8edd4ff5b3b417fa52e3da3d/*/profile_0/chunklist_dvr.m3u8*~hmac=0f77b758fedb5ad5047d6d1407675ca70100890519087870aa531ed3439e20ec&nn=6055437325001
+https://fancodealive1-a.akamaihd.net/fe7b528fbab8442aa4286e62162f3873/ap-south-1/6008340455001/profile_0/chunklist_dvr.m3u8?hdnea=st=1599141154~exp=9007200853882145~acl=/fe7b528fbab8442aa4286e62162f3873/*/profile_0/chunklist_dvr.m3u8*~hmac=f1ee0a9fda87add0ba45313d147a4af1dd999eaba68bdbd0fbdb1c8757cf61ae
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS LIVE",CPL Live [2]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS LIVE",amarNetTV Cricket Live 1
@@ -1313,7 +1313,8 @@ https://dl.dropbox.com/s/87iu9gyh3lxp3tc/User%20Guide-%20AMARNETTV%20Android%20a
 http://103.47.132.165/PLTV/88888888/224/3221227335/2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",History TV
 http://84.22.43.246:8000/play/a02h
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",HG TV SEA http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",HG TV SEA
+http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",DISCOVERY SEA
 http://103.47.132.165:80/PLTV/88888888/224/3221227161/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S CHOICE",NAT GEO SEA
