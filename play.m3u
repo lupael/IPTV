@@ -486,7 +486,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/31.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="IND. MOVIES",SONY MAX HD
 https://watchindia.net:8443/live/98398/86511/788.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="IND. MOVIES",SONY MAX
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/77
+http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6525?token=SRJYAhFRRlgVUlQGA1RWU1JUAVEGA1IECgQBBgBVAwAFBVFWUQ8HAA5BHkYSRhRUUFhmW1UWXgIGAVdIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoEU1EFVlJSHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="IND. MOVIES",Sony MAX2
 http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/37
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9QJ1co.jpg" group-title="IND. MOVIES",SONY WAH
@@ -604,7 +604,7 @@ http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/38.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bjWCDBZ.jpg" group-title="WORLD MOVIES",ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="WORLD MOVIES",& Prive HD
-http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
+http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="WORLD MOVIES",& Flix
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/40.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gHBvHes.jpg" group-title="WORLD MOVIES",& Flix HD
@@ -832,7 +832,7 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RFVly85.png" group-title="KIDS ENT.",POGO
 http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/112864
 #EXTINF:-1 tvg-logo="https://i.imgur.com/clCz1zv.jpg" group-title="KIDS ENT.",Disney
-http://line.hi-ott.net:80/r3bel757978771tr4h/qFSpcLgHlGfIJCf/112872
+http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/20fs4tp.png" group-title="KIDS ENT.",Disney Junior
 https://watchindia.net:8443/live/98398/86511/2105.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1280px-Logo_Disney_XD.svg.png" group-title="KIDS ENT.",Disney XD
