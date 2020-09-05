@@ -1,1 +1,4 @@
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000 
+https://dl.dropbox.com/s/3ibldsv73pdt0ta/amarnettvFree.mp4
