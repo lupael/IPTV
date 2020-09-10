@@ -758,11 +758,11 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettv
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KIDS ENT.",DURONTO TV HD
 http://robi.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS ENT.",NICK HD
-http://robi.iptv.digijadoo.net/live/nick_hd/playlist.m3u8?@amarnettv.live
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/68.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS ENT.",NICK [BANGLA]
 http://robi.iptv.digijadoo.net/live/nickelodeon/playlist.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="KIDS ENT.",Sonic [BANGLA]
-http://robi.iptv.digijadoo.net/live/sonic/chunks.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/67.ts
 #EXTINF:-1 tvg-logo="https://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" group-title="KIDS ENT.",NICK Jr.
 http://robi.iptv.digijadoo.net/live/nick_jr/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS ENT.",Discovery Kids
@@ -1255,158 +1255,6 @@ http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/18467
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/3835
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/4g5v81zh1qnog67/UC.jpg" group-title="USER'S PLAYLIST",Sports TV
 http://dp.iptvport.com:7000/FrHRql5AZb/SKYnUNwxOq/3060
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLb65ZT.jpg" group-title="JADOO LIVE",JD_Sangsad TV [BD]
-http://robi.iptv.digijadoo.net/live/sangsad_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/85zyKWB.jpg" group-title="JADOO LIVE",JD_BTV WORLD [BD]
-http://robi.iptv.digijadoo.net/live/btv_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="JADOO LIVE",JD_ATN BANGLA [BD]
-http://robi.iptv.digijadoo.net/live/atn_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="JADOO LIVE",JD_CHANNEL I [BD]
-http://robi.iptv.digijadoo.net/live/channel_i/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="JADOO LIVE",JD_NTV [BD]
-http://robi.iptv.digijadoo.net/live/ntv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="JADOO LIVE",JD_DEEPTO TV [BD]
-http://robi.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="JADOO LIVE",JD_DBC NEWS [BD]
-http://robi.iptv.digijadoo.net/live/dbc_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UHd3eew.jpg" group-title="JADOO LIVE",JD_RTV [BD]
-http://robi.iptv.digijadoo.net/live/rtv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KXsOj3L.png" group-title="JADOO LIVE",JD_BOISHAKHI TV
-http://robi.iptv.digijadoo.net/live/boishakhi_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/00HdGFD.jpg" group-title="JADOO LIVE",JD_BANGLA VISION [BD]
-http://robi.iptv.digijadoo.net/live/bangla_vision/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWuzjbg.jpg" group-title="JADOO LIVE",JD_MY TV [BD]
-http://robi.iptv.digijadoo.net/live/my_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eP45j9z.jpg" group-title="JADOO LIVE",JD_MOHONA TV [BD]
-http://robi.iptv.digijadoo.net/live/mohona_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="JADOO LIVE",JD_MAASRANGA TV [BD]
-http://robi.iptv.digijadoo.net/live/maasranga/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="JADOO LIVE",JD_GAZI TV [BD]
-http://robi.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="JADOO LIVE",JD_ASIAN TV [BD]
-http://robi.iptv.digijadoo.net/live/asian_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="JADOO LIVE",JD_SA TV [BD]
-http://robi.iptv.digijadoo.net/live/sa_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tVujSyj.jpg" group-title="JADOO LIVE",JD_NAGORIK TV [BD]
-http://robi.iptv.digijadoo.net/live/nagorik_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="JADOO LIVE",JD_ATN NEWS [BD]
-http://robi.iptv.digijadoo.net/live/atn_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="JADOO LIVE",JD_INDEPENDENT TV [BD]
-http://robi.iptv.digijadoo.net/live/independent_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/18m3T6f.jpg" group-title="JADOO LIVE",JD_SOMOY TV [BD]
-http://robi.iptv.digijadoo.net/live/somoy_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="JADOO LIVE",JD_CHANNEL 24 [BD]
-http://robi.iptv.digijadoo.net/live/channel_24/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="JADOO LIVE",JD_NEWS 24 [BD]
-http://robi.iptv.digijadoo.net/live/news_24_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="JADOO LIVE",JD_GAAN BANGLA [BD]
-http://robi.iptv.digijadoo.net/live/gaan_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="JADOO LIVE",JD_DURONTO TV [BD]
-http://robi.iptv.digijadoo.net/live/duronto_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="JADOO LIVE",JD_Star Jalsha HD [IN]
-http://robi.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="JADOO LIVE",JD_Zee Bangla SD [IN]
-http://robi.iptv.digijadoo.net/live/zee_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7DKPT1P.jpg?1" group-title="JADOO LIVE",JD_Colors Bangla HD [IN]
-http://robi.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="JADOO LIVE",JD_Colors Bangla SD [IN]
-http://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="JADOO LIVE",JD_DD Bangla [IN]
-http://robi.iptv.digijadoo.net/live/dd_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="JADOO LIVE",JD_Ruposhi Bangla [IN]
-http://robi.iptv.digijadoo.net/live/ruposhi_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="JADOO LIVE",JD_R Plus Gold [IN]
-http://robi.iptv.digijadoo.net/live/tara_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="JADOO LIVE",JD_Sangeet Bangla [IN]
-http://robi.iptv.digijadoo.net/live/sangeet_bangla/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="JADOO LIVE",JD_Dhoom Music [IN]
-http://robi.iptv.digijadoo.net/live/dhoom_music/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="JADOO LIVE",JD_Jalsha Movies [IN]
-http://robi.iptv.digijadoo.net/live/jalsha_movies/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jbNSmlL.png" group-title="JADOO LIVE",JD_COLORS HD
-http://robi.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DsVRIof.jpg" group-title="JADOO LIVE",JD_STAR PLUS
-http://robi.iptv.digijadoo.net/live/star_plus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TBwHZ9k.jpg" group-title="JADOO LIVE",JD_STAR PLUS HD
-http://robi.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GCibH6l.jpg" group-title="JADOO LIVE",JD_STAR BHARAT
-http://robi.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xN5TNtJ.png" group-title="JADOO LIVE",JD_Zee TV HD
-http://robi.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7shBbvL.png" group-title="JADOO LIVE",JD_STAR WORLD
-http://robi.iptv.digijadoo.net/live/star_world/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="JADOO LIVE",JD_Comedy Central
-http://robi.iptv.digijadoo.net/live/comedy_central/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MOM8eCT.png" group-title="JADOO LIVE",JD_Comedy Central HD
-http://robi.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3yFjd7k.jpg" group-title="JADOO LIVE",JD_Star Gold
-http://robi.iptv.digijadoo.net/live/star_gold_intl/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DRImUvN.jpg" group-title="JADOO LIVE",JD_Star Gold HD
-http://robi.iptv.digijadoo.net/live/star_gold/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e053RWs.png" group-title="JADOO LIVE",JD_Star Gold 2
-http://robi.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XDLU8Vy.jpg" group-title="JADOO LIVE",JD_Zee Cinema
-http://robi.iptv.digijadoo.net/live/zee_cinema/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5zKkg9B.jpg" group-title="JADOO LIVE",JD_Zee Bollywood
-http://robi.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izPPP72.jpg" group-title="JADOO LIVE",JD_MANORANJAN
-http://robi.iptv.digijadoo.net/live/manoranjan/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qowJChe.jpg?1" group-title="JADOO LIVE",JD_Movies Now
-http://robi.iptv.digijadoo.net/live/movies_now/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rAsgU76.jpg" group-title="JADOO LIVE",JD_LOTUS MACAU
-http://robi.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BlQG8Yn.jpg" group-title="JADOO LIVE",JD_FYI TV 18
-http://robi.iptv.digijadoo.net/live/fyi_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iXwGMoe.png" group-title="JADOO LIVE",JD_TLC HD
-http://robi.iptv.digijadoo.net/live/tlc_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XvlPBV4.png" group-title="JADOO LIVE",JD_History TV HD
-http://robi.iptv.digijadoo.net/live/history_tv_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uofhcTE.jpg" group-title="JADOO LIVE",JD_BBC Lifestyle
-http://robi.iptv.digijadoo.net/live/bbc_lifestyle/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7EppR2X.png" group-title="JADOO LIVE",JD_NAT GEO SD
-http://robi.iptv.digijadoo.net/live/nat_geo_in/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/13VA7Sh.jpg" group-title="JADOO LIVE",JD_NAT GEO WILD SD
-http://robi.iptv.digijadoo.net/live/nat_geo_wild/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/13/c1/5a/13c15a09a8192295d76b797bd46f3cb0.png" group-title="JADOO LIVE",JD_NAT GEO PEOPLE
-http://robi.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eCR56ku.png" group-title="JADOO LIVE",JD_FOX Life
-http://robi.iptv.digijadoo.net/live/fox_life/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e8/Masala_TV.png" group-title="JADOO LIVE",JD_Hum Masala
-http://robi.iptv.digijadoo.net/live/hum_masala/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="JADOO LIVE",JD_NICK
-http://robi.iptv.digijadoo.net/live/nickelodeon/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rAjHYu3.png" group-title="JADOO LIVE",JD_Nick HD
-http://robi.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png" group-title="JADOO LIVE",JD_Sonic
-http://robi.iptv.digijadoo.net/live/sonic/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" group-title="JADOO LIVE",JD_NICK Jr.
-http://robi.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4EdpqA7.png" group-title="JADOO LIVE",JD_BBC Cbeebies
-http://robi.iptv.digijadoo.net/live/cbeebies_asia/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/DDSportsLogo.png/240px-DDSportsLogo.png" group-title="JADOO LIVE",JD_DD Sports
-http://robi.iptv.digijadoo.net/live/dd_sports/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fRivJD3.jpg" group-title="JADOO LIVE",JD_Al Jazeera
-http://robi.iptv.digijadoo.net/live/al_jazeera/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LD1Lj0v.png" group-title="JADOO LIVE",JD_DW
-http://robi.iptv.digijadoo.net/live/dw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HuQij93.png" group-title="JADOO LIVE",JD_NHK WORLD
-http://robi.iptv.digijadoo.net/live/nhk_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UxBVq6Z.png" group-title="JADOO LIVE",JD_BBC News
-http://robi.iptv.digijadoo.net/live/bbc_world/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MTfR7d5.png" group-title="JADOO LIVE",JD_CNN USA
-http://robi.iptv.digijadoo.net/live/cnn/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e3cYtrb.jpg" group-title="JADOO LIVE",JD_CNA
-http://robi.iptv.digijadoo.net/live/channel_news/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png" group-title="JADOO LIVE",JD_CNBC TV
-http://robi.iptv.digijadoo.net/live/cnbc/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UZ84Iv8.jpg" group-title="JADOO LIVE",JD_MTV Beats
-http://robi.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lM6aAEj.jpg" group-title="JADOO LIVE",JD_Ary Musik
-http://robi.iptv.digijadoo.net/live/ary_muzik/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wzg83W0.jpg" group-title="JADOO LIVE",JD_Zoom
-http://robi.iptv.digijadoo.net/live/zoom/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UwRuxHm.png" group-title="JADOO LIVE",JD_PTV Global
-http://robi.iptv.digijadoo.net/live/ptv_global/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_BTV National
 http://45.249.187.238:8081/hls/new21.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Channel 9
@@ -1495,208 +1343,6 @@ http://45.249.187.238:8081/hls/new15.m3u8
 http://45.249.187.238:8081/hls/new11.m3u8
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="MOVIE BAZAR TV",MB_Ary Q TV
 http://45.249.187.238:8081/hls/new10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gazi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/31.jpg" group-title="ROAR ZONE IPTV",Gazi TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/1
-#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/107.jpg" group-title="ROAR ZONE IPTV",ATN Bangla
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/2
-#EXTINF:-1 tvg-id="" tvg-name="Banglavision TV" tvg-logo="http://roarmediazone.com/tv/weblogo/120.jpg" group-title="ROAR ZONE IPTV",Banglavision TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/3
-#EXTINF:-1 tvg-id="" tvg-name="Channel 9" tvg-logo="" group-title="ROAR ZONE IPTV",Channel 9
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/4
-#EXTINF:-1 tvg-id="" tvg-name="Channel 24" tvg-logo="http://roarmediazone.com/tv/img/channel24.jpg" group-title="ROAR ZONE IPTV",Channel 24
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/5
-#EXTINF:-1 tvg-id="" tvg-name="Channel I" tvg-logo="http://roarmediazone.com/tv/weblogo/101.jpg" group-title="ROAR ZONE IPTV",Channel I
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/6
-#EXTINF:-1 tvg-id="" tvg-name="DBC News" tvg-logo="http://roarmediazone.com/tv/weblogo/99.jpg" group-title="ROAR ZONE IPTV",DBC News
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/7
-#EXTINF:-1 tvg-id="" tvg-name="Deepto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/68.jpg" group-title="ROAR ZONE IPTV",Deepto TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/8
-#EXTINF:-1 tvg-id="" tvg-name="Desh TV" tvg-logo="http://roarmediazone.com/tv/weblogo/98.jpg" group-title="ROAR ZONE IPTV",Desh TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/9
-#EXTINF:-1 tvg-id="" tvg-name="Duronto TV" tvg-logo="http://roarmediazone.com/tv/weblogo/84.jpg" group-title="ROAR ZONE IPTV",Duronto TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/10
-#EXTINF:-1 tvg-id="" tvg-name="Ekattor TV" tvg-logo="http://roarmediazone.com/tv/weblogo/88.jpg" group-title="ROAR ZONE IPTV",Ekattor TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/11
-#EXTINF:-1 tvg-id="" tvg-name="Independent TV" tvg-logo="http://roarmediazone.com/tv/weblogo/67.jpg" group-title="ROAR ZONE IPTV",Independent TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/12
-#EXTINF:-1 tvg-id="" tvg-name="Jamuna TV" tvg-logo="http://roarmediazone.com/tv/weblogo/61.jpg" group-title="ROAR ZONE IPTV",Jamuna TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/13
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="http://roarmediazone.com/tv/weblogo/70.jpg" group-title="ROAR ZONE IPTV",RTV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/14
-#EXTINF:-1 tvg-id="" tvg-name="SA TV" tvg-logo="http://roarmediazone.com/tv/weblogo/121.jpg" group-title="ROAR ZONE IPTV",SA TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/15
-#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" tvg-logo="http://roarmediazone.com/tv/weblogo/85.jpg" group-title="ROAR ZONE IPTV",Ananda TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/16
-#EXTINF:-1 tvg-id="" tvg-name="Somoy TV" tvg-logo="http://roarmediazone.com/tv/weblogo/59.jpg" group-title="ROAR ZONE IPTV",Somoy TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/17
-#EXTINF:-1 tvg-id="" tvg-name="News24" tvg-logo="http://roarmediazone.com/tv/weblogo/65.jpg" group-title="ROAR ZONE IPTV",News24
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/18
-#EXTINF:-1 tvg-id="" tvg-name="Bangla TV" tvg-logo="http://roarmediazone.com/tv/weblogo/106.jpg" group-title="ROAR ZONE IPTV",Bangla TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/19
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1" tvg-logo="http://roarmediazone.com/tv/weblogo/15.jpg" group-title="ROAR ZONE IPTV",Sony Ten 1
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/20
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 2" tvg-logo="http://roarmediazone.com/tv/weblogo/62.jpg" group-title="ROAR ZONE IPTV",Sony Ten 2
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/21
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="http://roarmediazone.com/tv/weblogo/14.jpg" group-title="ROAR ZONE IPTV",Sony Ten 3
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/22
-#EXTINF:-1 tvg-id="" tvg-name="Sony ESPN" tvg-logo="http://roarmediazone.com/tv/weblogo/57.jpg" group-title="ROAR ZONE IPTV",Sony ESPN
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/23
-#EXTINF:-1 tvg-id="" tvg-name="Sony SIX" tvg-logo="http://roarmediazone.com/tv/weblogo/16.jpg" group-title="ROAR ZONE IPTV",Sony SIX
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/24
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="http://roarmediazone.com/tv/weblogo/89.jpg" group-title="ROAR ZONE IPTV",Star Sports 1
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/25
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="http://roarmediazone.com/tv/weblogo/41.jpg" group-title="ROAR ZONE IPTV",Star Sports 2
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/26
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="http://roarmediazone.com/tv/weblogo/13.jpg" group-title="ROAR ZONE IPTV",Star Sports Select 1
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/27
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="http://roarmediazone.com/tv/weblogo/12.jpg" group-title="ROAR ZONE IPTV",Star Sports Select 2
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/28
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Bangla Cinema" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="ROAR ZONE IPTV",ZEE Bangla Cinema
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/29
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha" tvg-logo="http://roarmediazone.com/tv/weblogo/90.jpg" group-title="ROAR ZONE IPTV",Star Jalsha
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/30
-#EXTINF:-1 tvg-id="" tvg-name="Star Jalsha Movies" tvg-logo="http://roarmediazone.com/tv/weblogo/125.jpg" group-title="ROAR ZONE IPTV",Star Jalsha Movies
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/31
-#EXTINF:-1 tvg-id="" tvg-name="Akaash Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/109.jpg" group-title="ROAR ZONE IPTV",Akaash Aath
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/32
-#EXTINF:-1 tvg-id="" tvg-name="Sony Aath" tvg-logo="http://roarmediazone.com/tv/weblogo/123.jpg" group-title="ROAR ZONE IPTV",Sony Aath
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/33
-#EXTINF:-1 tvg-id="" tvg-name="Zee Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/72.jpg" group-title="ROAR ZONE IPTV",Zee Bangla
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/34
-#EXTINF:-1 tvg-id="" tvg-name="Natgeo" tvg-logo="http://roarmediazone.com/tv/weblogo/83.jpg" group-title="ROAR ZONE IPTV",Natgeo
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/35
-#EXTINF:-1 tvg-id="" tvg-name="Sony SAB" tvg-logo="http://roarmediazone.com/tv/weblogo/32.jpg" group-title="ROAR ZONE IPTV",Sony SAB
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/36
-#EXTINF:-1 tvg-id="" tvg-name="SONY SET MAX" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="ROAR ZONE IPTV",SONY SET MAX
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/37
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV" tvg-logo="http://roarmediazone.com/tv/weblogo/19.jpg" group-title="ROAR ZONE IPTV",Sony TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/38
-#EXTINF:-1 tvg-id="" tvg-name="Mnx" tvg-logo="http://roarmediazone.com/tv/weblogo/20.jpg" group-title="ROAR ZONE IPTV",Mnx
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/39
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV" tvg-logo="http://roarmediazone.com/tv/weblogo/02.jpg" group-title="ROAR ZONE IPTV",ZEE TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/40
-#EXTINF:-1 tvg-id="" tvg-name="Sony Pix" tvg-logo="http://roarmediazone.com/tv/weblogo/17.jpg" group-title="ROAR ZONE IPTV",Sony Pix
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/41
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="http://roarmediazone.com/tv/weblogo/116.jpg" group-title="ROAR ZONE IPTV",HBO
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/42
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="http://roarmediazone.com/tv/weblogo/114.jpg" group-title="ROAR ZONE IPTV",Discovery HD
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/43
-#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth HD" tvg-logo="http://roarmediazone.com/tv/weblogo/23.jpg" group-title="ROAR ZONE IPTV",Sony BBC Earth HD
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/44
-#EXTINF:-1 tvg-id="" tvg-name="Movies Now" tvg-logo="http://roarmediazone.com/tv/weblogo/74.jpg" group-title="ROAR ZONE IPTV",Movies Now
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/45
-#EXTINF:-1 tvg-id="" tvg-name="Zee ETC" tvg-logo="http://roarmediazone.com/tv/weblogo/01.jpg" group-title="ROAR ZONE IPTV",Zee ETC
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/46
-#EXTINF:-1 tvg-id="" tvg-name="Sony MIX" tvg-logo="http://roarmediazone.com/tv/weblogo/18.jpg" group-title="ROAR ZONE IPTV",Sony MIX
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/47
-#EXTINF:-1 tvg-id="" tvg-name="9xM" tvg-logo="http://roarmediazone.com/tv/weblogo/97.jpg" group-title="ROAR ZONE IPTV",9xM
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/48
-#EXTINF:-1 tvg-id="" tvg-name="ATN NEWS" tvg-logo="http://roarmediazone.com/tv/weblogo/108.jpg" group-title="ROAR ZONE IPTV",ATN NEWS
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/49
-#EXTINF:-1 tvg-id="" tvg-name="Mohona TV" tvg-logo="http://roarmediazone.com/tv/weblogo/77.jpg" group-title="ROAR ZONE IPTV",Mohona TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/50
-#EXTINF:-1 tvg-id="" tvg-name="Maasranga" tvg-logo="http://roarmediazone.com/tv/weblogo/78.jpg" group-title="ROAR ZONE IPTV",Maasranga
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/51
-#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="http://45.249.187.238/images/logo.png" group-title="ROAR ZONE IPTV",BTV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/53
-#EXTINF:-1 tvg-id="" tvg-name="NTV" tvg-logo="http://roarmediazone.com/tv/weblogo/111.jpg" group-title="ROAR ZONE IPTV",NTV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/54
-#EXTINF:-1 tvg-id="" tvg-name="nickelodeon" tvg-logo="" group-title="ROAR ZONE IPTV",nickelodeon
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/55
-#EXTINF:-1 tvg-id="" tvg-name="MY TV" tvg-logo="http://roarmediazone.com/tv/weblogo/96.jpg" group-title="ROAR ZONE IPTV",MY TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/56
-#EXTINF:-1 tvg-id="" tvg-name="Dhoom Music" tvg-logo="http://roarmediazone.com/tv/weblogo/56.jpg" group-title="ROAR ZONE IPTV",Dhoom Music
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/57
-#EXTINF:-1 tvg-id="" tvg-name="Gaan Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/86.jpg" group-title="ROAR ZONE IPTV",Gaan Bangla
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/58
-#EXTINF:-1 tvg-id="" tvg-name="Nagorik TV" tvg-logo="http://roarmediazone.com/tv/weblogo/110.jpg" group-title="ROAR ZONE IPTV",Nagorik TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/59
-#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="http://roarmediazone.com/tv/weblogo/03.jpg" group-title="ROAR ZONE IPTV",Zoom
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/60
-#EXTINF:-1 tvg-id="" tvg-name="Boishakhi TV" tvg-logo="http://roarmediazone.com/tv/weblogo/113.jpg" group-title="ROAR ZONE IPTV",Boishakhi TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/61
-#EXTINF:-1 tvg-id="" tvg-name="Asian TV" tvg-logo="http://roarmediazone.com/tv/weblogo/69.jpg" group-title="ROAR ZONE IPTV",Asian TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/62
-#EXTINF:-1 tvg-id="" tvg-name="ATN Islamic" tvg-logo="http://roarmediazone.com/tv/weblogo/94.jpg" group-title="ROAR ZONE IPTV",ATN Islamic
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/63
-#EXTINF:-1 tvg-id="" tvg-name="Ekushy TV" tvg-logo="http://roarmediazone.com/tv/weblogo/87.jpg" group-title="ROAR ZONE IPTV",Ekushy TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/65
-#EXTINF:-1 tvg-id="" tvg-name="Colors Bangla" tvg-logo="http://roarmediazone.com/tv/weblogo/100.jpg" group-title="ROAR ZONE IPTV",Colors Bangla
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/66
-#EXTINF:-1 tvg-id="" tvg-name="Star Plus" tvg-logo="http://roarmediazone.com/tv/weblogo/115.jpg" group-title="ROAR ZONE IPTV",Star Plus
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/67
-#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="http://roarmediazone.com/tv/weblogo/45.jpg" group-title="ROAR ZONE IPTV",Colors
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/68
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cafe HD" tvg-logo="http://roarmediazone.com/tv/weblogo/05.jpg" group-title="ROAR ZONE IPTV",Zee Cafe HD
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/69
-#EXTINF:-1 tvg-id="" tvg-name="WilloW" tvg-logo="" group-title="ROAR ZONE IPTV",WilloW
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/70
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Cricket" tvg-logo="" group-title="ROAR ZONE IPTV",Sky Sports Cricket
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/71
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports MIX" tvg-logo="" group-title="ROAR ZONE IPTV",Sky Sports MIX
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/72
-#EXTINF:-1 tvg-id="" tvg-name="Ptv Sports" tvg-logo="http://roarmediazone.com/tv/weblogo/92.jpg" group-title="ROAR ZONE IPTV",Ptv Sports
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/73
-#EXTINF:-1 tvg-id="" tvg-name="And TV HD" tvg-logo="http://roarmediazone.com/tv/weblogo/44.jpg" group-title="ROAR ZONE IPTV",And TV HD
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/74
-#EXTINF:-1 tvg-id="" tvg-name="Star Gold" tvg-logo="http://roarmediazone.com/tv/weblogo/73.jpg" group-title="ROAR ZONE IPTV",Star Gold
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/75
-#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema" group-title="ROAR ZONE IPTV",Zee Cinema
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/76
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max" tvg-logo="http://roarmediazone.com/tv/weblogo/29.jpg" group-title="ROAR ZONE IPTV",Sony Max
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/77
-#EXTINF:-1 tvg-id="" tvg-name="And Flix" tvg-logo="http://roarmediazone.com/tv/weblogo/48.jpg" group-title="ROAR ZONE IPTV",And Flix
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/78
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://roarmediazone.com/tv/weblogo/54.jpg" group-title="ROAR ZONE IPTV",Cartoon Network
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/79
-#EXTINF:-1 tvg-id="" tvg-name="ATN Music" tvg-logo="" group-title="ROAR ZONE IPTV",ATN Music
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/82
-#EXTINF:-1 tvg-id="" tvg-name="Makkah Live" tvg-logo="" group-title="ROAR ZONE IPTV",Makkah Live
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/83
-#EXTINF:-1 tvg-id="" tvg-name="BTV World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTSb1MKImRa4-SmCTjyXoJI4Y8QjRw7Al5vwPLm02QdawCkT5pv" group-title="ROAR ZONE IPTV",BTV World
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/84
-#EXTINF:-1 tvg-id="" tvg-name="DW NEWS" tvg-logo="" group-title="ROAR ZONE IPTV",DW NEWS
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/85
-#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla TV" tvg-logo="" group-title="ROAR ZONE IPTV",Movie Bangla TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/86
-#EXTINF:-1 tvg-id="" tvg-name="Al Dawah" tvg-logo="" group-title="ROAR ZONE IPTV",Al Dawah
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/87
-#EXTINF:-1 tvg-id="" tvg-name="Sangsad TV" tvg-logo="" group-title="ROAR ZONE IPTV",Sangsad TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/88
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="" group-title="ROAR ZONE IPTV",Al Jazeera
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/89
-#EXTINF:-1 tvg-id="" tvg-name="Zee Action" group-title="ROAR ZONE IPTV",Zee Action
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/90
-#EXTINF:-1 tvg-id="" tvg-name="Bangla Talkies" tvg-logo="" group-title="ROAR ZONE IPTV",Bangla Talkies
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/91
-#EXTINF:-1 tvg-id="" tvg-name="PTV WORLD" tvg-logo="" group-title="ROAR ZONE IPTV",PTV WORLD
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/92
-#EXTINF:-1 tvg-id="" tvg-name="ZING" tvg-logo="" group-title="ROAR ZONE IPTV",ZING
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/93
-#EXTINF:-1 tvg-id="" tvg-name="ZEE Bollywood" group-title="ROAR ZONE IPTV",ZEE Bollywood
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/94
-#EXTINF:-1 tvg-id="" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="ROAR ZONE IPTV",Ruposhi Bangla
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/95
-#EXTINF:-1 tvg-id="" tvg-name="Sangeet bangla" tvg-logo="http://hitectv.live/anytv/sangeetbangla.png" group-title="ROAR ZONE IPTV",Sangeet bangla
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/96
-#EXTINF:-1 tvg-id="" tvg-name="Movie plus" group-title="ROAR ZONE IPTV",Movie plus
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/97
-#EXTINF:-1 tvg-id="" tvg-name="9xo" tvg-logo="" group-title="ROAR ZONE IPTV",9xo
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/98
-#EXTINF:-1 tvg-id="" tvg-name="9x jhakaas" tvg-logo="" group-title="ROAR ZONE IPTV",9x jhakaas
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/99
-#EXTINF:-1 tvg-id="" tvg-name="And Pictures" group-title="ROAR ZONE IPTV",And Pictures
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/100
-#EXTINF:-1 tvg-id="" tvg-name="Lotas Macau" tvg-logo="http://hitectv.live/anytv/animal.png" group-title="ROAR ZONE IPTV",Lotas Macau
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/111
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="" group-title="ROAR ZONE IPTV",NATIONAL GEOGRAPHIC HD
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/112
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 1 HD" tvg-logo="https://thecomeback.com/awfulannouncing/wp-content/uploads/sites/94/2014/02/foxsports1logo.jpg" group-title="ROAR ZONE IPTV",FOX SPORTS 1 HD
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/113
-#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="https://www.anytv.live/anytv/starmovies.png" group-title="ROAR ZONE IPTV",Star Movies
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/114
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY TV" tvg-logo="" group-title="ROAR ZONE IPTV",HISTORY TV
-http://iptvthunder.thunderbd.com:25461/roarzone/roarzone/115
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="AMR BD LIVE",AMR_GAZI TV HD [BD]
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="AMR BD LIVE",AMR_MAASRANGA TV HD [BD]
@@ -2494,21 +2140,21 @@ http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_4.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_6.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",TNT4 (+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_TNT4_7.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",???????? ???????? HD (??????)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Брянская губерния HD (Брянск)
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_BRGUBERNIA_BRYANSK.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",??? (???????-?????????)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",РИМ (Каменск-Уральский)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RIM_KURAL.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",??? (???????)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",ИОТ (Иваново)
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_IOT_IVAN.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",??????? 1 (????????)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Кузбасс 1 (Кемерово)
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KUZBASS1_KEM.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",?????????
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Краснодар
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KRASNODAR_KRDAR.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",????? ?? (????????????)
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Сампо ТВ (Петрозаводск)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SAMPOTV_PZAV.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",????? ??? ?? HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Радио Хит ТВ HD
 http://dmitry-tv.my1.ru/his/01/CH_RADIOHITHD_720.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",???? 24 HD
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Крым 24 HD
 http://dmitry-tv.my1.ru/his/01/CH_24KRYMHD.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Ultra HD Cinema 4K UHD
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
@@ -2518,6 +2164,20 @@ http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RUSSIANEXTREMEULTRA_HLSUHD.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",LOVE NATURE 4K UHD
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_LOVENATURE4K_HLSUHD.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",U.HD (Фильмы без рекламы)
+http://ultotv.ru:8888/live/uhd/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",STR TV (Фильмы без рекламы)
+http://hls.goodgame.ru/hls/130048.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",PZN Streams (Фильмы без рекламы)
+http://hls.goodgame.ru/hls/12949.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",FILM TV
+https://hls.goodgame.ru/hls/165462.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Боевик ТВ
+https://v2.catcast.me/content/37493/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Кинозал  ( СССР )
+https://v2.catcast.me/content/36506/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Любимое индийское кино
+https://v2.catcast.me/content/37353/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Ultra HD Cinema HD
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSHD.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Ultra REX HD
@@ -2580,6 +2240,8 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_5.m3u8
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_6.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",NTV +7
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_NTV_7.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",RUSSIA HD
+http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",RUSSIA1 -1
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_RUSSIA1-1.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",RUSSIA1 0
@@ -2656,6 +2318,8 @@ http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_5.m3u8
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_6.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",5TV +7
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",TNT HD
+https://bl.zxz.su/live/317850/HLS/4614144_3,2883584_1,1153024_2/1565200649/a90286e262ef3af69815ceca0ae7cacb/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",TNT -1
 http://dmitry-tv.my1.ru/his/DVB-T2/CH_TNT-1.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",TNT 0
@@ -2712,6 +2376,8 @@ http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",STS Love (+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_STSLOVE_7.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",FRIDAY HD
+http://85.112.114.11:8086/udp/233.170.170.112:58631
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",FRIDAY! (+2)
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_FRIDAY_2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",FRIDAY! (+4)
@@ -2724,16 +2390,22 @@ http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_2.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_4.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",U(+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_U_7.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",Super HD
+http://195.191.208.2:8086/udp/229.54.15.90:1234
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",SUPER (+2)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",SUPER (+4)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_4.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",SUPER (+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_SUPER_7.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",kaledoskop
+http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",RENTV (+2)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",RENTV (+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_RENTV_7.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",ZVEZDA HD
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",ZVEZDA
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",ZVEZDA (+2)
@@ -2742,6 +2414,10 @@ http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_2.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_4.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",ZVEZDA (+7)
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ZVEZDA_7.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",360
+http://live-cdne13.cdnvideo.ru/cdne13/cdne13_new.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",7 TV
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",OTR
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTR.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",OBJECTIVE 59 HD
@@ -2764,6 +2440,8 @@ http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NSK_49CHANNEL_NSK.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/03/CH_OTSHD_NSK.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",NTN 24
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_NTN24_NSK.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",9volna
+http://cdn-01.bonus-tv.ru:8080/9volna/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",UTV
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_UTV_CHR.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",YAMREG
@@ -2772,14 +2450,24 @@ http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_YAMREG_YNF.m3u8
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_KASKAD_KLGR.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",1OBLASTNOY
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1OBLASTNOY_ORL.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",НNTV HD
+http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",VOLGA
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGA_NN.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",1GORODSKOY
 http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_1GORODSKOY_NN.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",TV-1000
+rtmp://erostv.cdnvideo.ru/erostv/erostv.sdp
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",1000k
+http://213.234.30.38/Live/1000k/stream.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",VOLGOGRAD 1 HD
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGOGRAD1HD_VGRAD.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",VOLGOGRAD 24 HD
 http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_VOLGOGRAD24HD_VGRAD.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",telekanal
+http://flussonic.powernet.com.ru:8080/telekanal_internet/tracks-v2a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",moscow
+http://moscow.gubernia.online/hls/live.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",GUBERNIA SAMARA
 http://dmitry-tv.my1.ru/his/itv_zabava/02/CH_GUBERNIA_SAMARA.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/frgr59ehnjd3usa/RusTV.png"  group-title="RUSSIAN TV",SAMARAGIS SAMARA
