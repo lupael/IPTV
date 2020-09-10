@@ -108,7 +108,7 @@ http://103.205.133.14/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g7xebew4gotro8j/EB.png"group-title="BANGLA ENT.",Enter 10 Bangla
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="BANGLA ENT.",Khusboo Bangla [IN]
-https://streamitv.multitvsolution.in/idvo/khushboo.m3u8
+https://streamitv.multitvsolution.in/idvo/khushboo.m3u8@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="BANGLA ENT.",R Plus Gold [IN]
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ySyvc3o.jpg" group-title="BANGLA ENT.",Kolkata TV [IN]
