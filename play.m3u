@@ -81,14 +81,16 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/jalsha.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/cdyu8elbv7kwqki/SJHD.jpg" group-title="BANGLA ENT.",Star Jalsha HD [IN]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/22.ts
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ENT.",Zee Bangla SD [IN]
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ENT.",Zee Bangla SD [IN] (1)
 http://103.205.133.50/hls/zeebangla.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="BANGLA ENT.",Zee Bangla SD [IN] (2)
+http://216.144.250.174/Zee_Classic_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA ENT.",Zee Bangla HD [IN] (1)
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/u1xd3dqynarcm3w/ZBHD.jpg" group-title="BANGLA ENT.",Zee Bangla HD [IN] (2)
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zeebanglahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/nzwueirmbw1syhn/CB.jpg" group-title="BANGLA ENT.",Colors Bangla SD [IN]
-http://robi.iptv.digijadoo.net/live/colors_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA ENT.",Colors Bangla HD (1)
+http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA ENT.",Colors Bangla HD (2)
 http://103.214.202.218:8081/live/colorsbangla-59/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Logo_of_Sun_Bangla.jpg/200px-Logo_of_Sun_Bangla.jpg" group-title="BANGLA ENT.",Sun Bangla [IN]
@@ -863,6 +865,8 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png",BEIN SPORT EXTRA
 https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+#EXTINF:-1 tvg-logo="https://www.geosuper.tv/assets/front/img/live_banner.jpg" group-title="SPORTS",Geo Super
+http://216.144.250.174/Geo_Super_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxsports1.png",FOX SPORT 1
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-foxsports2.png",FOX SPORT 2
