@@ -629,11 +629,11 @@ http://51.52.156.22:8888/http/009
 https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X3aDsYK.jpg" group-title="WORLD MOVIES",CELESTIAL MOVIES					
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="INFOTAINMENT",## INFOTAINMENT & LIFESTYLE ##
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="INFOTAINMENT",## INFOTAINMENT ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png" group-title="INFOTAINMENT",BBC EARTH HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/62.ts?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/x20j91a5k0901xi/LN.png" group-title="INFOTAINMENT",Love Nature 4K
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/x20j91a5k0901xi/LN.png" group-title="INFOTAINMENT",Love Nature 4K
 http://103.47.132.165/PLTV/88888888/224/3221227339/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="INFOTAINMENT",Viasat Nature
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
@@ -667,9 +667,9 @@ https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery HD [RUSSIA]
 http://live-ng-01.more.tv/hls/Discovery_HD/index_1.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT & LIFESTYLE" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",Discovery ASIA
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-discovery.png",Discovery ASIA
 http://103.47.132.165:80/PLTV/88888888/224/3221227161/index.m3u8
-#EXTINF:-1 group-title="INFOTAINMENT & LIFESTYLE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png",Discovery WORLD
+#EXTINF:-1 group-title="INFOTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Discovery_world_channel.png",Discovery WORLD
 http://83.85.35.253:8080/play/z08t
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFOTAINMENT",Discovery Science [HINDI]
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
@@ -1049,7 +1049,7 @@ http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8?@amarnettv.liv
 http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="NEWS",Khyber News
 http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8?@amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="MUSIC",## BANGLA MUSIC ##
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="MUSIC",## MUSIC ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC",GAAN BANGLA HD [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
