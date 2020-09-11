@@ -17,8 +17,8 @@ AmarNetTV.live :: Internet TV for All!!
 আপনি পিসি/ল্যাপটপ-এ দেখতে চাইলে নিচে দেয়া উইন্ডোজ সফটওয়ার গুলো ডাউনলোড করে অপশনে আমাদের লিঙ্কটি ব্যবহার করে আমাদের পুরো প্লে-লিস্ট দেখতে পারবেন। আপনি যদি এন্ড্রয়েড যে কোন ডিভাইসে দেখতে চান তবে বিভিন্ন আইপিটিভি প্লেয়ার এপসে আমাদের লিঙ্ক ব্যবহার করে দেখতে পারবেন। কিছু ভালো আইপিটিভি এপসের প্রিমিয়াম ভার্সন লিঙ্ক নিচে দেয়া রয়েছে। এছাড়া আমারনেটটিভির নিজস্ব এপস দিয়েও আপনি দেখতে পারবেন। এক্ষেত্রে আমাদের এপসে দেখতে হলে আপনার একটি একটিভেশন কোড লাগবে। একটিভেশন কোড পেতে আমাদের ফেসবুক পেজে যোগাযোগ করুন। 
 
 Our M3U Playlist Link:
-https://amarnettv.github.io/play.m3u
-https://amarnettv.github.io/world.m3u
+Basic Channels Playlist (500+ channels): https://amarnettv.github.io/play.m3u
+World IPTV Channels Playlist (5000+ channels): https://amarnettv.github.io/world.m3u
 
 Our Free Code:
 15553258850
