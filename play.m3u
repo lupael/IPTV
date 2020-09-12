@@ -850,7 +850,7 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS",## SPORTS ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS",ANT LIVE SPORTS 1
-https://sonydai.akamaized.net/hls/live/2018457/DAI9ME/master.m3u8?hdnea=exp=1599910805~acl=/*~hmac=84e8e9d138635dfcd42171911b1cbfa48f00c2fda86dfd979163f15f30d16aa5
+https://cdk.dailysportlist.xyz/epl1/1.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS",ANT LIVE SPORTS 2
 https://sonydai.akamaized.net/hls/live/2005444/DAI8ME/master.m3u8?hdnea=exp=1599910509~acl=/*~hmac=a1281e077c243768bd20bf36149a0565f9837b011a7a18552a82a0085ff9d6bb
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS",ANT LIVE SPORTS 3
@@ -860,8 +860,6 @@ https://sonyliveevents-nonssaime.akamaized.net/hls/live/2002929/LIV02UEFA/master
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS",ANT LIVE SPORTS 5
 https://fancodealive1-a.akamaihd.net:443/24b6a34907034f50b06105a4e16ec9d9/ap-south-1/6008340455001/profile_0/chunklist_dvr.m3u8?hdnea=st=1599745990~exp=9007200854486981~acl=/24b6a34907034f50b06105a4e16ec9d9/*/profile_0/chunklist_dvr.m3u8*~hmac=0ea4654c09ba929525100223db190d68cc5a733030923b16dfdbb6d77756d15d
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/5ogn5jmn69jbupk/SL.png" group-title="SPORTS",ANT LIVE SPORTS 6
-https://cdk.dailysportlist.xyz/epl1/1.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3vcsssfnhz9anft/CPL.jpg" group-title="SPORTS",ANT LIVE SPORTS 6
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",TITAS SPORTS [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
