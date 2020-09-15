@@ -16,8 +16,11 @@ AmarNetTV.live :: Internet TV for All!!
 কীভাবে আমারনেটটিভি দেখবেন?
 আপনি পিসি/ল্যাপটপ-এ দেখতে চাইলে নিচে দেয়া উইন্ডোজ সফটওয়ার গুলো ডাউনলোড করে অপশনে আমাদের লিঙ্কটি ব্যবহার করে আমাদের পুরো প্লে-লিস্ট দেখতে পারবেন। আপনি যদি এন্ড্রয়েড যে কোন ডিভাইসে দেখতে চান তবে বিভিন্ন আইপিটিভি প্লেয়ার এপসে আমাদের লিঙ্ক ব্যবহার করে দেখতে পারবেন। কিছু ভালো আইপিটিভি এপসের প্রিমিয়াম ভার্সন লিঙ্ক নিচে দেয়া রয়েছে। এছাড়া আমারনেটটিভির নিজস্ব এপস দিয়েও আপনি দেখতে পারবেন। এক্ষেত্রে আমাদের এপসে দেখতে হলে আপনার একটি একটিভেশন কোড লাগবে। একটিভেশন কোড পেতে আমাদের ফেসবুক পেজে যোগাযোগ করুন। 
 
+Our android app download link:  https://amarnettv.imfast.io/amarNetTV_V1.1.0.apk
+
 Our M3U Playlist Link:
 Basic Channels Playlist (500+ channels): https://amarnettv.github.io/play.m3u
+
 World IPTV Channels Playlist (5000+ channels): https://amarnettv.github.io/world.m3u
 
 Our Free Code:
@@ -59,7 +62,7 @@ Applications with support of IPTV streams.
 
 #### Android
 
-- [AMARNETTV LIVE](https://amarnettv.github.io/amarNetTV_V1.1.0.apK) - Need activation code to access our playlist
+- [AMARNETTV LIVE](https://amarnettv.imfast.io/amarNetTV_V1.1.0.apk) - Need activation code to access our playlist
 - [Televizo IPTV Player](https://drive.google.com/file/d/1x542FLeS9zGhyveZtajlNWnyCRqkMRgB/view?usp=sharing) - Free best IPTV player where you can add multiple playlist.
 - [TiVimate](https://drive.google.com/file/d/19z-lim_r6326EMfoNd2wp6USPJO7fZ8S/view?usp=sharing) - IPTV Player for Android TV box.
 - [IPTV Pro](https://drive.google.com/file/d/1YbUM7p4cX534pOK9aPK78BoqQC8_4LEq/view?usp=sharing) - IPTV player which supports external player also.
