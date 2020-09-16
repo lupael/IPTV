@@ -600,7 +600,7 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="WORLD MOVIES",Fox Movies Premium
 http://103.47.132.165/PLTV/88888888/224/3221227119/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="WORLD MOVIES",FOX Action Movies 1
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+http://live4.ocnttv.com:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W8ZLWCE.png" group-title="WORLD MOVIES",FOX Action Movies 2
 http://103.47.132.165/PLTV/88888888/224/3221227121/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/FOXFamilyMovies_logo_2.png" group-title="WORLD MOVIES",FOX Family Movies
@@ -631,6 +631,8 @@ http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/241
 http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/234
 #EXTINF:-1 tvg-logo="https://static.skyassets.com/storage/images/Sky_Cinema_PRIMARY_RGB.png" group-title="WORLD MOVIES",Sky Cinema Hits HD
 http://tvlatina.homeip.net:25461/esnoraldolargo/largo29/235
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="WORLD MOVIES",Hollywood TV (1)
+http://live4.ocnttv.com:8080/ZZ_haolaiwu/ZZ_haolaiwu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I8z4JXN.jpg" group-title="WORLD MOVIES",Hollywood TV (2)
 http://148.69.189.5:8000/play/hollw/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/BTV-KADAK.jpg" group-title="WORLD MOVIES",BTV KADAK HD
@@ -684,7 +686,7 @@ http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="INFOTAINMENT",ANIMAL PLANET HD [ASIA]
 http://103.47.132.165/PLTV/88888888/224/3221227173/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="INFOTAINMENT",ANIMAL PLANET HD [CHINESE]
-http://104.250.154.42:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+http://live4.ocnttv.com:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery HD [BANGLA]
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery SD [HINDI]
