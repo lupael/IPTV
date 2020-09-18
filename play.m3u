@@ -550,17 +550,17 @@ https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ymarcla.stream_all/playlis
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="WORLD MOVIES",## WORLD MOVIES ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="WORLD MOVIES",MBC MAX HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8?@amarnettv.live
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="WORLD MOVIES",MBC MAX FHD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8?@amarnettv.live
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="WORLD MOVIES",MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8?@amarnettv.live
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="WORLD MOVIES",MBC 2 FHD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8?@amarnettv.live
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="WORLD MOVIES",MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8?@amarnettv.live
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/diJCR16.png" group-title="WORLD MOVIES",MBC Action FHD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_1.m3u8?@amarnettv.live
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="WORLD MOVIES",Sony Pix HD
 http://103.205.133.50/hls/sonypix.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t3yOea1.jpg" group-title="WORLD MOVIES",Sony Pix
