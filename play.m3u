@@ -874,12 +874,6 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettv
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="SPORTS",IPL LIVE 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600549028/ei/RBxmX8nrCJ_W4-EP3OS-gAk/ip/103.120.194.33/id/mzwy_VbZsa0.4/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJEld5w1ms9cNQ70F6I36yjm7l2qOVuB0o0uz_IsDfHSAiEA-GZiOMq9Uc86lSOjnA82cYeUEAgd4LqEKfBAOmWEydM%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="SPORTS",IPL LIVE 2
-http://iptv.kitv.live:1935/live/Shari/MTV-P/53.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="SPORTS",IPL LIVE 3
-http://45.249.187.238:8081/hls/new2.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="SPORTS",IPL LIVE 4
-http://103.205.133.14/hls/chss1.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="SPORTS",IPL LIVE 5
 http://103.205.133.44:1935/live/Gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/U8XrjmP.png" group-title="SPORTS",TITAS SPORTS [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
