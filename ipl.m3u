@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="SPORTS",IPL LIVE
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/yngk2iz3vukhgq5/IPL.jpg" group-title="IPL 2020",IPL LIVE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1600630559/ei/v1pnX6fFC4movQSTi72oDg/ip/103.120.194.32/id/tn1NdI3TqxE.0/source/yt_live_broadcast/requiressl/yes/tx/23932699/txs/23932692%2C23932693%2C23932694%2C23932695%2C23932696%2C23932697%2C23932698%2C23932699%2C23932700%2C23932701%2C23932702/hfr/1/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAMxWTRxctPprdErfQH1A_zenyDe8-L6Rmk5iaSyEUIxvAiEAjMLj_lAmBYeA0-fb3P1Nr_rA8upmwy5pnRuyW8XD5TQ%3D/file/index.m3u8
