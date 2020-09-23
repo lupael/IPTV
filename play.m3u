@@ -1541,3 +1541,17 @@ http://45.249.187.238:8081/hls/new23.m3u8
 http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/802xnx0dlm9pznb/amrbd.png" group-title="BDIX TVs",3_Music Mastii
 http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
+#EXTINF:-1 group-title="BDIX TVs",Star Sports 1 HD
+http://185.246.210.54:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF:-1 group-title="BDIX TVs",Star Sports 2
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF:-1 group-title="BDIX TVs",Star Sports 3
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF:-1 group-title="BDIX TVs",Star Sports Select 2 HD
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF:-1 group-title="BDIX TVs",Star Sports Select 1 HD
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF:-1 group-title="BDIX TVs",Star Sports Hindi
+http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF:-1 group-title="BDIX TVs",Star Sports 2 
+http://185.246.210.54:2200/EX/starsports2hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
