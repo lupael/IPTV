@@ -692,7 +692,7 @@ http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png" group-title="KIDS",Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK [Bangla]
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/nickbangla.m3u8
+http://103.211.185.98:8082/55/index.m3u8?token=3aec4715b528941d44438020649cc5785d1ea249-02d273530a3e0bb767d2c3d6b38bafbf-1600986653-1600975853
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qkvo1BH.png" group-title="KIDS",NICK [English]
 http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8
 #EXTINF:-1 tvg-logo="https://images.nickjr.com/nickjr-assets/nickjr-web/assets/common/nickjr-logo-200x200.png?quality=0.75" group-title="KIDS",NICK Jr.
