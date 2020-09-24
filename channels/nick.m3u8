@@ -1,0 +1,5 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://iptv.kitv.live:1935/streaming/clients_live.php?extension=m3u8&username=Shari&password=MTV-P&stream=68&type=hls&segment=68.ts
+
