@@ -1029,7 +1029,183 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10227/images/logog.png" group-title="MUSIC",Radio Contact (BE)
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BDIX TVs",AMARNETTV:NOW IT'S FREE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BDIX TVs",RADIO/FM LIVE
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Sadhin
+http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Today
+http://node-24.zeno.fm/0zha3rfq02quv?rj-ttl=5&rj-tok=AAABdMQIscsAumYfZ0oUroNvhQ
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Sarabela
+http://162.254.149.146:9308/;stream/1/;stream/1
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Goongoon
+http://live.radiogoongoon.com:8888/stream/1/
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Foorti
+https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Dhoni
+http://182.160.110.180:1020/;stream.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Amaar
+http://118.179.215.45:8000/;stream/1
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Colours FM
+http://45.64.135.88:8000/stream1
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Dhaka FM
+http://118.179.219.244:8000/
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio ABC
+http://ample-zeno-20.radiojar.com/aqs8z2kn944tv
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Jagoo FM
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Abiram
+https://radioabiram.radioca.st/stream?listening-from-radio-garden=1601015157404
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Bhumi
+https://radiobhumi.radioca.st/;stream.mp3?listening-from-radio-garden=1601015235401
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Ekattor
+http://162.254.149.187:9302/;stream/1;?listening-from-radio-garden=1601015834943
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Bangla Wadio
+http://162.254.150.34:8201/;?listening-from-radio-garden=1601015028090
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",FnF.FM Bangla
+http://eu6.fastcast4u.com:5099/;stream?listening-from-radio-garden=1601015069589
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",SaRaHa
+http://node-30.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-tok=AAABdMQJqSIA6Gf4cI6DZUMhdA&rj-ttl=5
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Spice FM
+http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Traffic FM
+http://as3.digitalsynapsebd.com:8263/;stream.mp3?listening-from-radio-garden=1601016261922
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Big FM
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Awaj FM
+http://streamasiacdn.atc-labs.com/radioawaj.aac?listening-from-radio-garden=1601016488674
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio City Hiphop
+http://prclive1.listenon.in:9292/;?listening-from-radio-garden=1601019819282
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",All Sports Bangla
+http://protostar.shoutca.st:9183/;?listening-from-radio-garden=1601020295779
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Retro Bollywood
+http://64.71.79.181:5124/stream?listening-from-radio-garden=1601020369270
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Suno FM 102.
+http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Carnival
+http://94.23.30.114:8195/stream?listening-from-radio-garden=1601014708244
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",FM 88.8 (Ctg)
+http://as2.digitalsynapsebd.com:9236/;stream.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",FM 87.3 (Ctg)
+http://as2.digitalsynapsebd.com:9244/;stream.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",FM 88.8 (Dhaka)
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",FM 69.3 (Dhaka)
+http://as3.digitalsynapsebd.com:8582/;stream.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio 1
+http://as2.digitalsynapsebd.com:8863/;stream.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio 2
+http://as2.digitalsynapsebd.com:9252/;stream.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio 3
+http://as2.digitalsynapsebd.com:9248/;stream.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio 4
+http://as2.digitalsynapsebd.com:9244/;stream.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio 5
+http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - Mirchi Top 20
+https://mt20live-lh.akamaihd.net/i/mt20live_1@346531/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - Mirchi Unplugged
+https://mirchiunplugged-lh.akamaihd.net/i/mirchiunplugged_1@353022/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - meethi Mirchi
+https://meethimirchihdl-lh.akamaihd.net/i/MeethiMirchiHDLive_1_1@320572/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - Pehla Nasha
+https://wmirchi-lh.akamaihd.net/i/WMIRCHI_1@75780/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",2B! Radio Sangam Devi Maa
+http://ibadat.out.airtime.pro:8000/ibadat_a
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",2B! Radio Sangam Ganesha
+http://radio2bindia.out.airtime.pro:8000/radio2bindia_a
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",2B! Radio Sangam Gurbani
+http://gurbani.out.airtime.pro:8000/gurbani_a
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",2B! Radio Sangam Guruvar
+http://iskon2b.out.airtime.pro:8000/iskon2b_a
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",2B! Radio Sangam Krishna
+http://millenniumhits.out.airtime.pro:8000/millenniumhits_a
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",2B! Radio Sangam Shiva
+http://hot.out.airtime.pro:8000/hot_a
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",2B! Radio Sangam Shri Ram
+http://dard.out.airtime.pro:8000/dard_a
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Bhajans
+https://streamingv2.shoutcast.com/bhajansradioguyana
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Big 95 FM
+https://radioindia.net/radio/sc-bb/icecast.audio
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Bollywood Punjabi Radio
+http://stream.zeno.fm/1k0y9f0cm0quv
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Bollywood Punjabi Radio
+http://stream.zeno.fm/1k0y9f0cm0quv
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Bollywood Radio and Beyond
+http://96.31.83.86:8084/;
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Bollywood Radio and Beyond
+http://69.4.230.78:9000/;
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Bollywood Radio and Beyond
+http://185.80.220.12:8046/stream
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Harman Radio Australia
+http://harmanradio.net:8000/main_48.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Jesus Alive Radio
+http://stream.zenolive.com/qyb8s75nsceuv
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Non Stop Hindi Radio
+http://198.178.123.14:8216/;
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Nuke Radio Hindi
+https://live.nukeradio.com/proxy/nukehindi?mp=/stream3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio
+https://www.radiomirchi.com/
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Apna
+http://ca.rcast.net:8048/
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio BollyFm
+http://stream.radiobollyfm.in:8201/hd?t=1526570335
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio City
+http://prclive1.listenon.in:9302/;
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio City (india) - Hindi
+http://prclive1.listenon.in:9960/
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio city Dance
+http://prclive1.listenon.in:8994
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio City Smaran
+http://prclive1.listenon.in:9950/
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Dil Apna Punjabi
+http://my.radiodap.ca:9000
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Garam Masala
+http://69.175.94.98:8146/
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Hindi International
+http://radio.bongonet.net:8012/rhi
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Ishara
+http://nickerie.webhop.net:8000/;stream.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - 90s Hit Songs
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - Devraag
+https://devraaghdlive-lh.akamaihd.net/i/DevraagHDLive_1_1@336268/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - Drive Radio
+https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - Hindi Retro
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Mirchi - Indies
+https://meethimirchihdl-lh.akamaihd.net/i/MirchiEdgeHDLive_1_1@336272/master.m3u8
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Sai Global Harmony Bhajan
+http://stream.radiosai.net:8000
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Schizoid - Chillout / Ambient
+http://94.130.113.214:8000/chill
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Schizoid - Dub Techno
+http://94.130.113.214:8000/dubtechno
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Schizoid - Progressive Psychedelic Trance
+http://94.130.113.214:8000/prog
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",radio sense
+https://eu10.fastcast4u.com:3925/stream
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Teen Taal Bollywood
+http://www.radioteentaal.com:8000
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",radio udaan
+https://onlineradiobox.com/json/in/radioudaan/play?platform=web
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",SportsFlashes all sports radio
+https://azura.shoutca.st/radio/8620/radio.mp3
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",The Buddhist Online Radio
+http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",THE BUDDHIST RADIO
+http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Ujala Radio
+http://stream2.ujala.nl/stream/2/listen.mp3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BDIX TVs",BDIX TV SERVERS
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TVs",1_BTV
 http://45.249.187.238:8081/hls/new24.m3u8
