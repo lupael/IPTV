@@ -1029,7 +1029,7 @@ https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s10227/images/logog.png" group-title="MUSIC",Radio Contact (BE)
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BDIX TVs",RADIO/FM LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="RADIO/FM LIVE",## RADIO/FM LIVE ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Radio Sadhin
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
@@ -1205,7 +1205,7 @@ http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 http://78.129.222.62/stream.mp3?ipport=78.129.222.62_33116
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE",Ujala Radio
 http://stream2.ujala.nl/stream/2/listen.mp3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BDIX TVs",BDIX TV SERVERS
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BDIX TVs",## BDIX TV SERVERS ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TVs",1_BTV
 http://45.249.187.238:8081/hls/new24.m3u8
