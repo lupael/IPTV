@@ -521,12 +521,12 @@ http://198.255.87.59:8080/INDIA_HINDI/SONY_PIX_HD/tracks-v1a1/mono.m3u8?token=te
 http://45.249.187.238:8081/hls/new21.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPcVm2h.png" group-title="WORLD MOVIES",MN+ HD
 http://iptv.kitv.live:1935/live/Shari/MTV-P/38.m3u8
-#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",FOX ACTION EN
-https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png",FOX MOVIES PREMIUM EN
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxfamily.png",FOX FAMILY HD EN
 https://www.livedoomovies.com/02_FoxFamilyHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="WORLD MOVIES" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",FOX ACTION EN
+https://www.livedoomovies.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pWnecuO.jpg" group-title="WORLD MOVIES",TV 1000 HD
 http://live-ng-01.more.tv/hls/TV1000_HD/master.m3u8?@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hbjBQFw.jpg" group-title="WORLD MOVIES",TV 1000 Action HD
@@ -717,7 +717,7 @@ http://iptv.kitv.live:1935/live/Shari/MTV-P/68.m3u8
 http://62.210.127.9:25461/AqUvqsEHKbpn0eRj/y0VCWGXmxHZ3dkmV/28747?play_token=P3gFhmfB5T&token=QhVcUhcJRggXBlMCBV9UDABTUwZXB1MCBgIFVwVRBwUIBQ1QXAJcB1dGGURBEkJRAFtpWgVEXlFdUwZYSkAXElxFa1oAQ14QAVEAUApfEhhDQl9eBEReUlBdA1deW1ZSCBsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUctcUNKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4rEFCPQ.jpg" group-title="KIDS",Sony YAY
 http://198.255.87.59:8080/INDIA_HINDI/SONY_YAY/tracks-v1a1/mono.m3u8?token=test
-#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235" group-title="Kids",Hungama Kids
+#EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Hungama_TV.png/revision/latest/scale-to-width-down/340?cb=20111015213235" group-title="KIDS",Hungama Kids
 http://anytv.live:8080/live/saiful/saiful/372.m3u8
 #EXTINF:-1 tvg-id="0-9-290" tvg-logo="https://akamaividz.zee5.com/resources/0-9-290/list/386x386/1170x658_zee5kid_983708240.png" group-title="KIDS",ZEE5 Kids
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/out/v1/9b05285c38c54549a5afd04473bdd65c/index.m3u8
