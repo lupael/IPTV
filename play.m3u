@@ -587,8 +587,6 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8?@amarnettv.live
 https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="INFOTAINMENT",## INFOTAINMENT ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/3btcb5ua7wxw2u4/4k.jpg" group-title="INFOTAINMENT",Amarnet 4k Nature
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601081969/ei/ET5uX6jkK8mWwgPE4YrwDg/ip/103.120.194.38/id/P7d1H83IcjE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgGHbqJPr9eXTOGo6dom0xYuFLMZrjBeQNGf-1dRWnmv4CIALNbWhMDINo4iuXCf_Hr5F-LOFuBveGfVv6bpsOpzDH/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="INFOTAINMENT",Viasat Nature
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="INFOTAINMENT",SONY BBC Earth HD [ENGLISH]
@@ -1607,3 +1605,16 @@ http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
 http://45.249.187.238:8081/hls/new12.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/802xnx0dlm9pznb/amrbd.png" group-title="BDIX TVs",3_Music Mastii
 http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",4K Nature LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601155762/ei/Ul5vX-qDD86Y1AbG85uQAw/ip/103.120.194.38/id/P7d1H83IcjE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANtpVGjxv-o5NcKDMIKcnLIMJJMlTFDKEeYg-CoJwCY-AiBx7469x_eSmxL4eS8On1otJZBVEaEMgIIJhMcM9W1c7g%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",24/7 HINDI Music LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601155525/ei/ZV1vX-rmCYSqvQSK6r7QBQ/ip/103.120.194.32/id/pLGzb1hOiDQ.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPx3OnRViuM9Kpwn7GQo5aNJ-CfDY8xtnLXY9buNe0tMAiBJqeNUys5MW_lSE5OvhqWpzHcfXt5PSKgb6cCSB6ICoQ%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",24/7 HINDI Mashup LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601157507/ei/I2VvX9_wFeeN1Abuo4jQDw/ip/103.120.194.39/id/_QCtb_VYYKc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANPMBjB-Qp1vCARPNc6ruN61EOquI43-ZDldWWwNPYILAiEAwPgIOZJar_OffbVbKOS2OznoavyNPbqoKcIXakRcWPE%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",Tom&Jerry LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601157604/ei/hGVvX9KMJqvI4-EP1Lel0AU/ip/103.120.194.39/id/HRzVQQ25zJw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgUctMAERqY5Uk4SCZo4Ro33VXvhi5D7hKpqyGzgjPlvACIBY6InBzxQmOv0tRbM9yPmOrATn7eZMUY51OYI7alKco/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",La Liga LIVE
+https://fdaily.dailysportlist.xyz/2/2.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",EPL LIVE
+https://fdaily.dailysportlist.xyz/4/4.m3u8
+
