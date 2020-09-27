@@ -617,15 +617,15 @@ https://www.livedoomovies.com/02_NatPeopleHD_720p/chunklist.m3u8
 https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png" group-title="INFOTAINMENT",ANIMAL PLANET HD [RUSSIA]
 http://live-ng-01.more.tv/hls/Animal_Planet_HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery HD [BANGLA]
-http://iptv.kitv.live:1935/live/Shari/MTV-P/61.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery SD [HINDI]
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery HD [CHINESE]
-https://www.fanmingming.cn/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery HD [ENGLISH]
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery HD [RUSSIA]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery [BANGLA]
+https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery [HINDI]
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery [CHINESE]
+https://www.fanmingming.cn/hls/discovery.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="INFOTAINMENT",Discovery [RUSSIA]
 http://live-ng-01.more.tv/hls/Discovery_HD/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4Wfs9kj.png" group-title="INFOTAINMENT",Discovery Science [HINDI]
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
@@ -778,14 +778,16 @@ http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="SPORTS",## SPORTS ##
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601148530/ei/EkJvX6CsCPfHz7sPh8ObsAo/ip/103.120.194.33/id/tn1NdI3TqxE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYrHv3BhonwwZG9DGS6RrEIwHZrCLb3BHVMsXcQtRXWsCIQCdYZPheOQqsM2VbON3xB5o4AVLrn-9nBruCDlbuwDY8g%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601226793/ei/yXNwX_edHpj2owP8oJygBg/ip/43.245.122.4/id/tn1NdI3TqxE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgPuiVbxh_ET5oqgLahkNX8qGkw01RKazQ_18nm4uPTykCIQCHBE9IT_l4ozRZ-w9b1kbRwoR--eHABkVNlOkG1pRstQ%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 2
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 3
 http://103.205.133.44:1935/live/Gtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 4
-http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
+http://89.187.169.205:2200/R-EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 5
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 6
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT34kk7eUaREq-SubvYv5NaqH5GN8KpOXHADg&usqp=CAU" group-title="SPORTS",La Liga LIVE
 https://fdaily.dailysportlist.xyz/2/2.m3u8
@@ -825,36 +827,35 @@ http://216.144.250.174/Sony_Six_HD/tracks-v1a1/mono.m3u8
 http://103.49.168.172:8081/ebox/six/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O8Ag5jI.jpg?1" group-title="SPORTS",Sony SIX HD
 http://103.205.133.19/hls/sonysix.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD (1)
 http://185.246.210.54:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 1 HD (2)
 http://45.249.187.238:8081/hls/new1.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports Hindi HD (1)
-http://87.117.234.107:1935/live/StarSports1FHD/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports Hindi HD (2)
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports Hindi
+http://89.187.169.205:2200/EX/starsports2hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 1 Hindi HD
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (1)
 http://103.214.202.218:8081/live/starsports2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (2)
-http://103.205.133.14/hls/chss2.m3u8
+http://89.187.169.205:2200/EX/starsports2hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 HD (3)
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS",Star Sports 2 
 http://185.246.210.54:2200/EX/starsports2hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 3
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 3 (1)
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_3_-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+#EXTINF: -1 tvg-logo="https://i.imgur.com/KhZPrnw.jpg" group-title="SPORTS", Star Sports 3 (2)
+http://89.187.169.205:2200/EX/starsports3-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (1)
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (2)
 http://103.214.202.218:8081/live/select2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9w8g48Y.jpg" group-title="SPORTS",Star Sports Select 1 HD (3)
-http://87.117.234.107:1935/live/StarSportsSelect1FHD/media_w699043435_1648.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD (1)
 http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD (2)
 http://87.117.234.107:1935/live/StarSportsSelect2FHD/media_w699043435_1648.m3u8
-#EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" group-title="SPORTS",Star Sports Select 2 HD (3)
-http://103.84.253.5/live/fastfeed1001/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png",Ten Sports
 http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",BEIN SPORT HD 1
@@ -1624,7 +1625,7 @@ https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/HicYJzEAB5E/c
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",Rolling Cam World LIVE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601218140/ei/_FFwX6jIAtKoz7sPwLayqA8/ip/103.67.158.153/id/ph1vpnYIxJk.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgFw4SW5KOYzFZkWWrpfWASvDCOEtZd2I25i7oAl7rYAICIBxwW8tWhVY_VMJuUo6H29D5EV54KaAQRZ9J9xBne1t4/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",4K Nature LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601155762/ei/Ul5vX-qDD86Y1AbG85uQAw/ip/103.120.194.38/id/P7d1H83IcjE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANtpVGjxv-o5NcKDMIKcnLIMJJMlTFDKEeYg-CoJwCY-AiBx7469x_eSmxL4eS8On1otJZBVEaEMgIIJhMcM9W1c7g%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601226441/ei/aXJwX-7cHsuCowPmuKeQCg/ip/43.245.122.4/id/P7d1H83IcjE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgT9ludqY996rtdIJPG7HSfsO4_ug9aatV_PpYq-vzVbICIAP5sLxu0Xx2RdjW-uxyAo2M48Z5vsJ5u1L4tmMuaHC4/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",24/7 HINDI Music LIVE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601217147/ei/G05wX6_RD4eFwgPn_5CQAg/ip/103.67.158.153/id/pLGzb1hOiDQ.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgMxcuGge-Ty_0yv0iqRHc9sOEn3d5QkI2DvFUr-YRkA8CIAXy-h-yZELaDgTmRyetybt8ruiCUijYhx4wwlHSGoxP/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",24/7 HINDI Mashup LIVE
