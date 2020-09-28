@@ -1017,7 +1017,7 @@ http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2020/08/musicchoice-logo-.jpg" group-title="MUSIC",Music Choice TV [BD]
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/musicchoice.stream/live-orgin/musicchoice.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klVzNhT.png" group-title="MUSIC",Sangeet Bangla [IN]
-http://45.249.187.238:8081/hls/new7.m3u8
+http://198.255.87.59:8080/INDIA_BENGALI/SANGEET_BANGLA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/B7L4Nzd.jpg" group-title="MUSIC",Dhoom Music [IN]
 http://103.49.168.172:8081/ebox/in_dhoom/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/MTV_Beats_Logo.png/revision/latest/scale-to-width-down/340?cb=20191227125237" group-title="MUSIC",MTV beats hd
