@@ -94,17 +94,19 @@ http://198.255.87.59:8080/INDIA_BENGALI/COLORS_BANGLA_HD/tracks-v1a1/mono.m3u8?t
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA ENT.",Colors Bangla HD (2)
 http://185.59.222.236:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (1)
-http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
+https://load.airtel.tv/sonyaath/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (2)
 http://89.187.169.206:2200/R-EX/MARATHI_SONY_AATH-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (3)
 http://ccntv.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg"group-title="BANGLA ENT.",Enter 10 Bangla
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg"group-title="BANGLA ENT.",Enter 10 Bangla [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Logo_of_Sun_Bangla.jpg" group-title="Bangla",Sun Bangla [IN]
+http://185.246.210.54:2200/R-EX/BENGLAI_TATA_SKY_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="BANGLA ENT.",Akash Aath [IN]
-http://iptv.kitv.live:1935/live/Shari/MTV-P/98.m3u8
+https://load.airtel.tv/aakashaath/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="BANGLA ENT.",DD Bangla [IN]
-http://iptv.kitv.live:1935/live/Shari/MTV-P/57.m3u8
+https://load.airtel.tv/ddbangla/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jf3Sv29.jpg" group-title="BANGLA ENT.",Ruposhi Bangla [IN]
 http://103.205.133.14/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hiXQiMa.jpg" group-title="BANGLA ENT.",Khusboo Bangla [IN]
@@ -1613,15 +1615,3 @@ http://103.214.202.218:8081/live/zoom-60/playlist.m3u8
 http://45.249.187.238:8081/hls/new12.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/802xnx0dlm9pznb/amrbd.png" group-title="BDIX TVs",3_Music Mastii
 http://103.214.202.218:8081/live/mastimusic-65/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",4K Nature LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601384413/ei/fdtyX6j5Joz64-EP7qmL2Ac/ip/202.5.56.39/id/P7d1H83IcjE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVV2yV3l0d-8QX420vO4sJNl6k5VESwq8e4ElE0G3c0YCIQCzkcV3bDBIQ_O0jC0nKF4_giM9V8injn6Ikj-kDWIy1g%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",24/7 HINDI Music LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601384505/ei/2dtyX8DZBPezz7sPoZet2AI/ip/202.5.56.39/id/pLGzb1hOiDQ.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgEBPNq80mkxruEiPRZFauJBLlbIwIHUcCe9fr4oKEFyQCICB6sBwcVGHWluuYKis8y0A1mWsIBPUSJHGzlrg6Nuxv/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",24/7 HINDI Old Vs New LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601384546/ei/AtxyX-vVIfb84-EPtdKMqA0/ip/202.5.56.39/id/t9XPAxxN4XM.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHiA1KZjBVQhbyTlRd1q59VAy04ufJnMa8xSuoCZrZlQCIDfi89vlUD_Bb_Q56XD9_4-GC-pJEdtxPFHOkkyY_Dv7/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",24/7 HINDI Romantic LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601384614/ei/RtxyX9bUK4z64-EP7qmL2Ac/ip/202.5.56.39/id/cA8rElN00v8.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgU7yDvGpuRbj_UhNgc6X_wkmEl-lRreQtxle5KURENfsCIG6gm3-9flLErt99nQGvkpTm3Yeef7U6CztUdZExasLr/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",Bollywood HIT LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601384675/ei/g9xyX4ahCveHjuMP5L2coAg/ip/202.5.56.39/id/Psxnvkfpz9s.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgdIfjoPRhAdWnS09s6KCu979RQ4w8_3qBLxLOi55oAJ8CIFmi38G6HdU9PEtVEEBEmBVhEkwzDhd5QF4bBRX2VKFr/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/tsxmwyz97j9at38/live.jpg" group-title="AMARNETTV LIVE SHOW",Bollywood Mashup LIVE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601384722/ei/stxyX_fbEvb84-EPtdKMqA0/ip/202.5.56.39/id/u0b-jZA7iYU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgU2ne9gwEPNeFPOZQPWSY--0wK1mhlszaNi414VPGs2sCIEaFosCHZSKR6E2gQK6Qbd_fIle0_MWQRpurZeYTk-Qj/file/index.m3u8
