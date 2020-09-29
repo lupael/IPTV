@@ -126,7 +126,7 @@ http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglac
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA ENT.",Zee Bangla Cinema [IN] (2)
 http://185.59.222.234:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN] (1)
-http://195.181.172.83:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=amarnettv.live
+http://digilptv.ddns.net:25461/live/rahman41/0302/203.m3u8?token=GhBaAkILQwgRBF8FAwUDVABQWFdWUQxSAVBSAFJSV1ZQCgNaAQdVCwNHFRNFQkdSUQ9mD1ASAgQIVRoXEUUDFD5bVkELQVMKBF0bHRRCXFpVQANWGBJIX1xEDBdSB1dTQx4QBkkXBEBdBFVuUlNDXlMHG1xaRVRaFERZWztSAwsAXFZBC0FREB9HUEJGFA9ZRQ5VShZSUUJKB0JQRgxEV1QEBEEdQQJdRgtNQ08UDxVyJhtKFlVAQl0IRVwLWERcQ18BFglBTRBaFmZDU0VBRVUDVANGEgIUCEQaFwlXHjkCXVwNVAAVW1wLShMMFAQVHEBUCVpZTFlKOUZcABRcRFADBFADQRw=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN] (2)
 http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies [IN] (1)
