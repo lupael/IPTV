@@ -94,14 +94,14 @@ http://198.255.87.59:8080/INDIA_BENGALI/COLORS_BANGLA_HD/tracks-v1a1/mono.m3u8?t
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="BANGLA ENT.",Colors Bangla HD (2)
 http://185.59.222.236:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (1)
-https://load.airtel.tv/sonyaath/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
+http://ccntv.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (2)
 http://89.187.169.206:2200/R-EX/MARATHI_SONY_AATH-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/wa8wof22bn71puv/sony_aath_in.png" group-title="BANGLA ENT.",Sony Aath [IN] (3)
-http://ccntv.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
+https://load.airtel.tv/sonyaath/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/wvu90zc7xqctblh/entb.jpg"group-title="BANGLA ENT.",Enter 10 Bangla [IN]
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Logo_of_Sun_Bangla.jpg" group-title="Bangla",Sun Bangla [IN]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/40/Logo_of_Sun_Bangla.jpg" group-title="BANGLA ENT.",Sun Bangla [IN]
 http://185.246.210.54:2200/R-EX/BENGLAI_TATA_SKY_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VL1Ke9.jpg" group-title="BANGLA ENT.",Akash Aath [IN]
 https://load.airtel.tv/aakashaath/smil:common.smil/chunklist_b896000_DVR_sleng.m3u8
@@ -113,8 +113,6 @@ http://103.205.133.14/hls/ruposhibangla.m3u8
 https://streamitv.multitvsolution.in/idvo/khushboo.m3u8@amarnettv.live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aDGaGMw.jpg" group-title="BANGLA ENT.",R Plus Gold [IN]
 https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ySyvc3o.jpg" group-title="BANGLA ENT.",Kolkata TV [IN]
-http://iptv.kitv.live:1935/live/Shari/MTV-P/59.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g5AQzAK.jpg" group-title="BANGLA ENT.",ABP Ananda [IN]
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-logo="http://calcuttanews.tv/wp-content/uploads/2017/04/ctvnlogo-1.png" group-title="BANGLA ENT.",Calcutta News [IN]
@@ -127,9 +125,7 @@ https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvrfVsv.jpg" group-title="BANGLA ENT.",Zee Bangla Cinema [IN] (2)
 http://185.59.222.234:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=amarnettv.live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN] (1)
-http://digilptv.ddns.net:25461/live/rahman41/0302/203.m3u8?token=GhBaAkILQwgRBF8FAwUDVABQWFdWUQxSAVBSAFJSV1ZQCgNaAQdVCwNHFRNFQkdSUQ9mD1ASAgQIVRoXEUUDFD5bVkELQVMKBF0bHRRCXFpVQANWGBJIX1xEDBdSB1dTQx4QBkkXBEBdBFVuUlNDXlMHG1xaRVRaFERZWztSAwsAXFZBC0FREB9HUEJGFA9ZRQ5VShZSUUJKB0JQRgxEV1QEBEEdQQJdRgtNQ08UDxVyJhtKFlVAQl0IRVwLWERcQ18BFglBTRBaFmZDU0VBRVUDVANGEgIUCEQaFwlXHjkCXVwNVAAVW1wLShMMFAQVHEBUCVpZTFlKOUZcABRcRFADBFADQRw=
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN] (2)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies HD [IN]
 http://198.255.87.59:8080/INDIA_BENGALI/STAR_JALSHA_MOVIES_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="BANGLA ENT.",Jalsha Movies [IN] (1)
 http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
@@ -595,6 +591,8 @@ https://m-c09-j2apps.s.llnwi.net/hls/8011.ShortFilmsTV.in.m3u8
 https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="INFOTAINMENT",Viasat Nature
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="INFOTAINMENT",Love Nature 4K
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="INFOTAINMENT",SONY BBC Earth HD [ENGLISH]
 http://198.255.87.59:8080/INDIA_ENGLISH/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="INFOTAINMENT",SONY BBC Earth HD [HINDI]
