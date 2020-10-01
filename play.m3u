@@ -782,11 +782,11 @@ https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettv
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601579421/ei/PdV1X5ysGJDqoQPqvqbIDw/ip/103.120.194.33/id/tn1NdI3TqxE.0/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/1080/maudio/1/gcr/bd/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAP6SeM6CMf1OWcDM4eMl9xSC2-5m0ZwUFJGrDKlZxYFiAiArFKtcX7d2974SOzdGwpIdFOr9vigrGnQpke67cjWQ1g%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 2
-http://185.246.210.54:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://45.249.187.238:8081/hls/new2.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 3
-http://103.205.133.44:1935/live/Gtv/playlist.m3u8
+http://103.102.136.106:8080/cmcltv/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 4
-http://89.187.169.205:2200/R-EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=amarnettv.live
+http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 5
 http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b414000.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png/v1/fill/w_1000,h_1000,al_c,usm_0.66_1.00_0.01/0c84aa_13fbb435f21a4a1aa9932c97da55dab0~mv2.png" group-title="SPORTS",IPL LIVE 6
