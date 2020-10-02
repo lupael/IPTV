@@ -5,9 +5,9 @@
 Our android app download link:  
 
 Our M3U Playlist Link:
-Basic Channels Playlist (500+ channels): https://amarnettv.github.io/play.m3u
+Basic Channels Playlist (500+ channels): https://lupael.github.io/IPTV/play.m3u
 
-World IPTV Channels Playlist (5000+ channels): https://amarnettv.github.io/world.m3u
+World IPTV Channels Playlist (5000+ channels): https://lupael.github.io/IPTV/world.m3u
 
 Our Free Code:
 15553258850
