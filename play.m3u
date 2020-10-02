@@ -1,16 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i4e.com.bd/wp-content/uploads/2015/12/logo@150x150@150x50.png" group-title="",i4E TV:INTERNET TV FOR ALL
 https://www.facebook.com/watch/?v=534220430112709
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g0y5j2ky957pv92/ANT1.png" group-title="",ANT HOME 1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601589906/ei/Mv51X8fTJZSF3LUPwrOtqAQ/ip/103.120.194.39/id/4OL3rn2Dq38.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOdDlwI2czLOx8ILDVwcSP86LtdfPkTUden1Jc1OLtxcAiEAu-FWcN3y03amP9zwfIVUQ7WfhB1mTnGr1T2vf2jakEA%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g0y5j2ky957pv92/ANT1.png" group-title="",ANT HOME 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601589982/ei/fv51X-HUGciA9fwPrYe9mAU/ip/103.120.194.39/id/4f2LP1NzY50.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAL1o6cw7wnvmk0kzGAr3gxH7XdKyOWHKsT_dnpoBE6NwAiEAivZDnGJrTIy9QdXAbxS0GDcATJ9etLma7k5UgYRp0EI%3D/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g0y5j2ky957pv92/ANT1.png" group-title="",ANT HOME 3
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601590086/ei/5v51X8mIG4GowgOv-7ewDw/ip/103.120.194.39/id/9iAMo0tAbYs.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgPXFsy4ABTD0KkrUtWv9h6VvXytogrWRKS1WUQrhjzz4CIEmEvhF66ulzLh0jbcmSeIL-SAuDTWq36hNiMYSSZzE2/file/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g0y5j2ky957pv92/ANT1.png" group-title="",ANT HOME 4
-https://video.fdac32-1.fna.fbcdn.net/hvideo-0atn-1frc/bhost_video.fcgp17-1.fna/_nc_ohc-CcWCivoBWLEAX8Bm9Ti/_nc_cat-1/v/r4Wmpfm3i8P6ZvgkRK4Hg/live-dash/live-hd-v/3538446942858506_0-3990086.m4v?ms=m_CN
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BANGLA ENT.",## BANGLA ENTERTAINMENT ##
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png" group-title="BANGLA ENT.",BTV [BD]
 http://45.249.187.238:8081/hls/new24.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="BANGLA ENT.",BTV [CTG]
