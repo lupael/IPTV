@@ -137,3 +137,7 @@ Please feel free to make any changes to this list. As long as this changes are r
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+## Tested
+
+[![Build status](https://ci.appveyor.com/api/projects/status/w3d31aud6k7o7sjg/branch/master?svg=true)](https://ci.appveyor.com/project/lupael/iptv/branch/master)
