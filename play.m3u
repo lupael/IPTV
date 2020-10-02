@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="",AMARNETTV:INTERNET TV FOR ALL
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
+#EXTINF:-1 tvg-logo="https://i4e.com.bd/wp-content/uploads/2015/12/logo@150x150@150x50.png" group-title="",i4E TV:INTERNET TV FOR ALL
+https://www.facebook.com/watch/?v=534220430112709
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g0y5j2ky957pv92/ANT1.png" group-title="",ANT HOME 1
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601589906/ei/Mv51X8fTJZSF3LUPwrOtqAQ/ip/103.120.194.39/id/4OL3rn2Dq38.0/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOdDlwI2czLOx8ILDVwcSP86LtdfPkTUden1Jc1OLtxcAiEAu-FWcN3y03amP9zwfIVUQ7WfhB1mTnGr1T2vf2jakEA%3D/file/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/g0y5j2ky957pv92/ANT1.png" group-title="",ANT HOME 2
