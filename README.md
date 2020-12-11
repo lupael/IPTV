@@ -9,9 +9,7 @@ Basic Channels Playlist (500+ channels): https://lupael.github.io/IPTV/play.m3u
 
 World IPTV Channels Playlist (5000+ channels): https://lupael.github.io/IPTV/world.m3u
 
-Our Free Code:
-15553258850
-15553258851
+
 
 ## Contents
 
