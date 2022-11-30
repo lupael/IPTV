@@ -7,7 +7,7 @@ Our android app download link:
 World cup Live: https://lupael.github.io/IPTV/running.m3u
 
 Our M3U Playlist Link:
-Basic Channels Playlist (500+ channels): https://lupael.github.io/IPTV/play.m3u
+Basic Channels Playlist (500+ channels): https://lupael.github.io/IPTV/running.m3u
 
 World IPTV Channels Playlist (5000+ channels): https://lupael.github.io/IPTV/world.m3u
 
